@@ -30,5 +30,5 @@ Created: 2016-2017<br>
 
 <script>
 var list = document.getElementsByTagName("h1")[0];
-list.innerHTML = "Milk <img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="background:transparent"/>";
+list.innerHTML = 'HolyLogger <img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="background:transparent"/>';
 </script>
