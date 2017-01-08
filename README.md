@@ -13,22 +13,12 @@ It allows you to export your log in ADIF format (.adi)<br>
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
+A nice feature is the 'Signboard' that displays your callsign and grid<br>
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
+</a>
+
 <h2>Author</h2>
 Design and Code: **_Gil, 4Z1KD_**
 
 Created: 2016-2017<br>
-<style>
-.inner
-{
-  width: 80%;
-}
-#main-content
-{
- width: 80%;
-}
-#sidebar
-{
-float:none;
- width: 100%;
-}
-</style>
