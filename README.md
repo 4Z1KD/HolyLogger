@@ -1,5 +1,5 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HamSwitch.png" />
-<h1>Holyland Logger Application</h1>
+<h1>Holyland Logger</h1>
 
 **This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
 
