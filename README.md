@@ -13,7 +13,7 @@ The main screen is simply a set of all the required fields in a qso.
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
-**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always in fron of you<br>
+**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always in front of your eyes<br>
 **_Tools->Score_** will display your current estimated score<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
