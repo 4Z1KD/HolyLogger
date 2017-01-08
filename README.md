@@ -26,3 +26,9 @@ The main screen is simply a set of all the required fields in a qso.
 Design and Code: **_Gil, 4Z1KD_**
 
 Created: 2016-2017<br>
+
+
+<script>
+    var x = document.getElementsById("logo");
+    x[0].outerHTML = '<span><img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:0; right:0; background:transparent"/></span>'
+</script>
