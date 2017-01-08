@@ -29,6 +29,6 @@ Created: 2016-2017<br>
 
 
 <script>
-var list = document.getElementsByTagName("h1")[0];
-list.innerHTML = 'HolyLogger <img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="background:transparent"/>';
+var list = document.getElementById("logo");
+list.outerHTML = 'HolyLogger <img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:-30px;right:10px;display:block;background:transparent"/>';
 </script>
