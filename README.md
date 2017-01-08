@@ -1,4 +1,4 @@
-<meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HamSwitch.png" />
+<meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HolyLogger icon.png" />
 <h1>Holyland Logger</h1>
 
 **This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
@@ -26,3 +26,23 @@ The main screen is simply a set of all the required fields in a qso.
 Design and Code: **_Gil, 4Z1KD_**
 
 Created: 2016-2017<br>
+
+<script>
+    var x = document.getElementsByClassName("button");
+    x[0].outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HamSwitch.png" width="156px" style="position:absolute; top:0; right:0; background:transparent">'
+</script>
+<style>
+.inner
+{
+  width: 80%;
+}
+#main-content
+{
+ width: 80%;
+}
+#sidebar
+{
+float:none;
+ width: 100%;
+}
+</style>
