@@ -1,7 +1,7 @@
 <meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HamSwitch.png" />
 <h1>Holyland Logger Application</h1>
 
-**This is a super simple, one click, easy to use logging application for Holyland contest participants.<br>
+**This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
 
 The main screen is simply a set of "must have" fields in a qso log file.
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png" target="_blank">
