@@ -29,7 +29,7 @@ Created: 2016-2017<br>
 
 <script>
     var x = document.getElementsByClassName("button");
-    x[0].outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HamSwitch.png" width="156px" style="position:absolute; top:0; right:0; background:transparent">'
+    x[0].outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/HamSwitch/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:0; right:0; background:transparent">'
 </script>
 <style>
 .inner
