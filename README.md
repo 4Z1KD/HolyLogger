@@ -18,6 +18,9 @@ A nice feature is the 'Signboard' that displays your callsign and grid<br>
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
 </a>
 
+<h2>Download</h2>
+<a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
+
 <h2>Author</h2>
 Design and Code: **_Gil, 4Z1KD_**
 
