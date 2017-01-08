@@ -3,17 +3,18 @@
 
 **This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
 
-The main screen is simply a set of "must have" fields in a qso log file.
+The main screen is simply a set of all the required fields in a qso.
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png?raw=true "HolyLogger Main Screen")
 </a>
 
-It allows you to export your log in ADIF format (.adi)<br>
+**_File->Export_** will allow you to export your log in ADIF format (.adi)**<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
-A nice feature is the 'Signboard' that displays your callsign and grid<br>
+**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always in fron of you<br>
+**_Tools->Score_** will display your current estimated score<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
 </a>
