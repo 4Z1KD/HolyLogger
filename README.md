@@ -30,5 +30,5 @@ Created: 2016-2017<br>
 
 <script>
 var list = document.getElementById("logo");
-list.outerHTML = 'HolyLogger <img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:-30px;right:10px;display:block;background:transparent"/>';
+list.outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:-30px;right:10px;background:transparent"/>';
 </script>
