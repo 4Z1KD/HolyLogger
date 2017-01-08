@@ -1,4 +1,3 @@
-<meta property="og:image" content="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" />
 <h1>Holyland Logger</h1>
 
 **This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
@@ -32,3 +31,4 @@ Created: 2016-2017<br>
 var list = document.getElementById("logo");
 list.outerHTML = '<img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="156px" style="position:absolute; top:-80px;right:10px;background:transparent"/>';
 </script>
+<img src="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger icon.png" width="1px" style="display:none;"/>
