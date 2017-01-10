@@ -7,11 +7,13 @@ The main screen is simply a set of all the required fields in a qso.
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png?raw=true "HolyLogger Main Screen")
 </a>
 
+<h2>Log Export</h2>
 **_File->Export_** will allow you to export your log in ADIF format (.adi)**<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
+<h2>The Signboard</h2>
 **_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always in front of your eyes<br>
 **_Tools->My Score_** will display your current estimated score<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
@@ -33,7 +35,6 @@ To take advantage of the qrz.com xml subscription, open the *.config* file and u
 <h2>Omni-Rig</h2>
 <a href="http://www.dxatlas.com/omnirig/" target="_blank">omnirig</a> is a COM component for transceiver/receiver CAT control.<br>
 If installed, HolyLogger uses omnirig to communicate with the radio - it just sends frequency and mode requests to automatically update the frequency and mode fields in the log.
-
 
 <h2>Download</h2>
 <a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
