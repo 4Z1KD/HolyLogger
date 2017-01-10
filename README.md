@@ -39,7 +39,7 @@ If installed, HolyLogger uses omnirig to communicate with the radio - it just se
 <a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
 
 <h2>My Holyland Square</h2>
-Q: How do I get my holyland square?<br>
+Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
 
 <h2>Author</h2>
