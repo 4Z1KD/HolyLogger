@@ -30,6 +30,11 @@ To take advantage of the qrz.com xml subscription, open the *.config* file and u
 </setting>
 ```
 
+<h2>Omni-Rig</h2>
+<a href="http://www.dxatlas.com/omnirig/" target="_blank">omnirig</a> is a COM component for transceiver/receiver CAT control.<br>
+If installed, HolyLogger uses omnirig to communicate with the radio (it just sends frequency requests).
+
+
 <h2>Download</h2>
 <a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
 
