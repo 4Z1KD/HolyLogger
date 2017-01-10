@@ -1,8 +1,9 @@
 <h1>Holyland Logger</h1>
 
-**This is a super simple, one click, easy to use logging application for Holyland contest participants.**<br>
+**A super simple, one click, easy to use logging application for Holyland contest participants.**<br>
 
-The main screen is simply a set of all the required fields in a qso.
+The main screen is simply a set of the required qso fields.<br>
+Insert the dx station callsign, update the exchange field and hit F1 - That's it!
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png?raw=true "HolyLogger Main Screen")
 </a>
