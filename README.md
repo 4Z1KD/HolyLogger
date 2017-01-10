@@ -23,7 +23,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 <h2>QRZ.COM Subscription</h2>
 To take advantage of the qrz.com xml subscription, open the *.config* file and update your user name and password.<br>
 
-```javascript
+```
 <setting name="qrz_username" serializeAs="String">
   <value>Your_QRZ_UserName</value>
 </setting>
