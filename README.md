@@ -18,6 +18,18 @@ The main screen is simply a set of all the required fields in a qso.
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
 </a>
 
+<h2>QRZ.COM Subscription</h2>
+To take advantage of the qrz.com xml subscription, open the *.config* file and update your user name and password.<br>
+
+```javascript
+<setting name="qrz_username" serializeAs="String">
+  <value>Your_QRZ_UserName</value>
+</setting>
+<setting name="qrz_password" serializeAs="String">
+  <value>Your_QRZ_Password</value>
+</setting>
+```
+
 <h2>Download</h2>
 <a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
 
