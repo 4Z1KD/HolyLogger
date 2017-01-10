@@ -40,7 +40,7 @@ If installed, HolyLogger uses omnirig to communicate with the radio - it just se
 <a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
 
 <h2>Installation</h2>
-Just unzip the directory you downloaded to your favourite location *(a.k.a Desktop)* and double click *HolyLogger.exe*<br>
+Just unzip the directory to your favourite location *(a.k.a Desktop)* and double click *HolyLogger.exe*<br>
 If you want QRZ.COM lookup to work, don't forget to edit the *.config* file
 
 <h2>My Holyland Square</h2>
