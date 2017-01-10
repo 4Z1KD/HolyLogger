@@ -9,7 +9,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 </a>
 
 <h2>Log Export</h2>
-**_File->Export_** will generate a clean and readable ADIF format (.adi) log file - ready to upload to the contest website**<br>
+**_File->Export_** generates a clean and readable ADIF format *(.adi)* log file - ready to upload to the contest website<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
