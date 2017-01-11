@@ -47,6 +47,9 @@ If you want QRZ.COM lookup to work, don't forget to edit the *.config* file
 Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
 
+<h2>License</h2>
+The application is FREE for non commercial use by Amateur Radio Operators
+
 <h2>Author</h2>
 Design and Code: **_Gil, 4Z1KD_**
 
