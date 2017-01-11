@@ -36,7 +36,7 @@ If installed, HolyLogger uses omnirig to communicate with the radio - it just se
 
 <h2>Installation</h2>
 Just unzip the directory to your favourite location *(a.k.a Desktop)* and double click *HolyLogger.exe*<br>
-If you want QRZ.COM lookup to work, don't forget to edit the *.config* file
+If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
 <h2>My Holyland Square</h2>
 Q: How do I figure out what is my holyland square?<br>
