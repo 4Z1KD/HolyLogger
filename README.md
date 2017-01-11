@@ -21,16 +21,11 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 </a>
 
 <h2>QRZ.COM Subscription</h2>
-To take advantage of the qrz.com xml subscription, open the *.config* file and update your user name and password between the `<value>` tags.<br>
-
-```html
-<setting name="qrz_username" serializeAs="String">
-  <value>Your_QRZ_UserName</value>
-</setting>
-<setting name="qrz_password" serializeAs="String">
-  <value>Your_QRZ_Password</value>
-</setting>
-```
+**_Tools->properties_** To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials<br>
+It will allow HolyLogger to get information and display the handle and the dxcc of the DX station<br>
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png" target="_blank">
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png?raw=true "QRZ.COM credentials")
+</a>
 
 <h2>Omni-Rig</h2>
 <a href="http://www.dxatlas.com/omnirig/" target="_blank">omnirig</a> is a COM component for transceiver/receiver CAT control.<br>
