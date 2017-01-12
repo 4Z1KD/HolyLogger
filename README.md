@@ -29,7 +29,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
 If installed, HolyLogger uses omnirig to communicate with the radio - it just sends frequency and mode requests to automatically update the frequency and mode fields in the log.<br>
-It is avaiabe for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from It is avaiabe for <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a>
+It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from It is avaiabe for <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a>
 
 
 <h2>Download</h2>
