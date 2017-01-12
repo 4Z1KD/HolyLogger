@@ -9,13 +9,13 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 </a>
 
 <h2>Log Export</h2>
-**_File->Export_** generates a clean and readable ADIF format *(.adi)* log file - ready to upload to the <a href="http://www.iarc.org/iarc/#LogUpload" target="_blank">contest website</a><br>
+**_File->Export_** generates a clean and readable ADIF format *(.adi)* log file - ready to upload to the <a href="http://www.iarc.org/iarc/#LogUpload" target="_blank">contest website</a>.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
 <h2>The Signboard</h2>
-**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always there for you to take a look<br>
+**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
 </a>
@@ -42,7 +42,7 @@ Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
 
 <h2>License</h2>
-The application is FREE for non commercial use by Amateur Radio Operators
+The application is FREE for non commercial use by Amateur Radio Operators.
 
 <h2>Author</h2>
 Design and Code: **_Gil, 4Z1KD_**
