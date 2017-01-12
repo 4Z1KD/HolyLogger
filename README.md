@@ -33,7 +33,7 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 
 
 <h2>Download</h2>
-<a href="https://github.com/4Z1KD/HolyLogger/archive/master.zip" target="_blank">Download HolyLogger</a>
+<a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.msi" target="_blank">Download HolyLogger</a>
 
 <h2>Installation</h2>
 Just unzip the directory to your favourite location *(a.k.a Desktop)* and double click *HolyLogger.exe*<br>
