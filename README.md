@@ -36,7 +36,7 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.msi" target="_blank">Download HolyLogger</a>
 
 <h2>Installation</h2>
-Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process (Next-Next-Next)<br>
+Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process.<br>
 If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
 <h2>My Holyland Square</h2>
