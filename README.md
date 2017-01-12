@@ -9,19 +9,19 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 </a>
 
 <h2>Log Export</h2>
-**_File->Export_** generates a clean and readable ADIF format *(.adi)* log file - ready to upload to the <a href="http://www.iarc.org/iarc/#LogUpload" target="_blank">contest website</a>.<br>
+**_File->Export_**<br>Generates a clean and readable ADIF format *(.adi)* log file - ready to upload to the <a href="http://www.iarc.org/iarc/#LogUpload" target="_blank">contest website</a>.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/export.png?raw=true "HolyLogger Main Screen")
 </a>
 
 <h2>The Signboard</h2>
-**_Tools->Signboard_** will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
+**_Tools->Signboard_**<br>Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.png?raw=true "HolyLogger Main Screen")
 </a>
 
 <h2>QRZ.COM Subscription</h2>
-**_Tools->properties_** To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
+**_Tools->properties_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png?raw=true "QRZ.COM credentials")
 </a>
@@ -36,7 +36,7 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.msi" target="_blank">Download HolyLogger</a>
 
 <h2>Installation</h2>
-Just unzip the directory to your favourite location *(a.k.a Desktop)* and double click *HolyLogger.exe*<br>
+Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process (Next-Next-Next)<br>
 If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
 <h2>My Holyland Square</h2>
