@@ -46,8 +46,14 @@ A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank"
 <h2>License</h2>
 The application is FREE for non commercial use by Amateur Radio Operators.
 
-<h2>Author</h2>
+<h2>Authors</h2>
+Consulting and QA: **_Danny, 4Z5SL_**
 Design and Code: **_Gil, 4Z1KD_**
+
+<h2>Contributing</h2>
+Found a Bug? _Don't panic!_<br>
+Have a feature request? _No problem!_<br>
+Drop me a line at **_gil4z1kd@gmail.com_** and i'll take care of that.
 
 Created: 2016-2017<br>
 
