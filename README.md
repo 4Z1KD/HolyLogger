@@ -44,7 +44,7 @@ Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
 
 <h2>Authors</h2>
-Consulting and QA: **_Danny, 4Z5SL_**<br>
+Consulting and QA: **_Dan, 4Z5SL_**<br>
 Design and Code: **_Gil, 4Z1KD_**
 
 <h2>Contributing</h2>
