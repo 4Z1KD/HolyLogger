@@ -43,11 +43,8 @@ If you want QRZ.COM lookup to work, don't forget to update your credentials in t
 Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
 
-<h2>License</h2>
-The application is FREE for non commercial use by Amateur Radio Operators.
-
 <h2>Authors</h2>
-Consulting and QA: **_Danny, 4Z5SL_**
+Consulting and QA: **_Danny, 4Z5SL_**<br>
 Design and Code: **_Gil, 4Z1KD_**
 
 <h2>Contributing</h2>
@@ -55,7 +52,11 @@ Found a Bug? _Don't panic!_<br>
 Have a feature request? _No problem!_<br>
 Drop me a line at **_gil4z1kd@gmail.com_** and i'll take care of that.
 
-Created: 2016-2017<br>
+<h2>License</h2>
+The application is FREE for non commercial use by Amateur Radio Operators.
+
+<h3>Maintenance</h3>
+January 2017<br>
 
 
 <script>
