@@ -51,10 +51,13 @@ A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank"
 Consulting and QA: **_<a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>_**<br>
 Design and Code: **_<a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a>_**<br>
 
-<h2>Contributing</h2>
+<h2>Contribution</h2>
 Found a Bug? _Don't panic!_<br>
 Have a feature request? _No problem!_<br>
 Drop me a line at **_gil4z1kd@gmail.com_** and i'll take care of that.
+
+<h2>Donation</h2>
+Buy me a beer on the next field day.
 
 <h2>License</h2>
 The application is FREE for non commercial use by Amateur Radio Operators.
