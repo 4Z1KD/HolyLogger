@@ -1,4 +1,4 @@
-<h1>Holyland Logger</h1>
+<h1>Holyland Log Application</h1>
 
 **A super simple, one click, easy to use logging application for Holyland contest participants.**<br>
 
