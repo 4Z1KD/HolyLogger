@@ -37,7 +37,7 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 
 
 <h2>Download</h2>
-<a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.msi" target="_blank">Download HolyLogger</a>
+<a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">Download</a> 32bit version of HolyLogger
 
 <h2>Installation</h2>
 Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process.<br>
