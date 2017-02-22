@@ -46,6 +46,7 @@ If you want QRZ.COM lookup to work, don't forget to update your credentials in t
 <h2>My Holyland Square</h2>
 Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/iarc/getmysquare.html" target="_blank">online tool</a><br>
+or download the <a href="https://github.com/4Z1KD/HolySquare" target="_blank">.APK</a> file
 
 <h2>Authors</h2>
 Consulting and QA: **_<a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>_**<br>
