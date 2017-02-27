@@ -24,7 +24,7 @@ You may choose to upload your log file directly from HolyLogger, in this case th
 </a>
 
 <h2>QRZ.COM Subscription</h2>
-**_Tools->properties_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
+**_Tools->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png?raw=true "QRZ.COM credentials")
 </a>
