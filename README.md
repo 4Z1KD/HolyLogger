@@ -9,8 +9,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 </a>
 
 <h2>Log Export / Upload</h2>
-**_File->Export_**<br>Generates a clean and readable ADIF format *(.adi)* log file you can import in your other Log applications.<br>
-The generated file is ready for upload to the <a href="http://www.iarc.org/iarc/#LogUpload" target="_blank">contest website</a>.<br>
+**_File->Export_**<br>Generates a clean and readable ADIF format *(.adi)* log file you can import into your other Log applications.<br>
 
 **_File->Send Log_**<br>
 You may choose to upload your log file directly from HolyLogger, in this case the data is sent to the contest server and no file is generated.<br>
