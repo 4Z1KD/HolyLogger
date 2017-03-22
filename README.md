@@ -41,7 +41,7 @@ A 32bit version of HolyLogger exists in 2 flavours:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.zip" target="_blank">HolyLogger.zip</a> - a compressed folder (.zip file)
 
 <h2>Installation</h2>
-Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process.
+Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the installation process.
 
 If you downloaded the .zip file, just unzip it to your preffered destination e.g. Desktop or C:\ and execute *HolyLogger.exe*
 
