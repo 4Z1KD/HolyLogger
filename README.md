@@ -42,6 +42,7 @@ A 32bit version of HolyLogger exists in 2 flavours:<br>
 
 <h2>Installation</h2>
 Double-Click *HolyLogger.msi* and the wizard will guide you through the installation process.<br>
+If you downloaded the .zip file, just unzip it to your preffered destination e.g. Desktop or C:\ and execute *HolyLogger.exe*<br>
 If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
 <h2>My Holyland Square</h2>
