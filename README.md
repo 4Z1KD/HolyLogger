@@ -48,9 +48,6 @@ If you downloaded the .zip file, just unzip it to your preffered destination e.g
 Reminder:<br>
 If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
-<h2>Omni-Rig</h2>
-<a href="https://github.com/4Z1KD/HolyLogger/raw/master/OmniRig.zip" target="_blank">Download OmniRig.zip</a>,  unzip the zip file and run the installation.
-
 <h2>My Holyland Square</h2>
 Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/holysquare/" target="_blank">online tool</a> or download the .APK file (for Android users) from the <a href="https://4z1kd.github.io/HolySquare/" target="_blank">app website</a>.
