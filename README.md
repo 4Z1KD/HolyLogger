@@ -32,8 +32,8 @@ You may choose to upload your log file directly from HolyLogger, in this case th
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
 If installed, HolyLogger uses omnirig to communicate with the radio - it just sends frequency and mode requests to automatically update the frequency and mode fields in the log.<br>
-It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a>
-
+It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a><br>
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png?raw=true "HolyLogger Main Screen")
 
 <h2>Downloads</h2>
 A 32bit version of HolyLogger exists in 2 flavours:<br>
