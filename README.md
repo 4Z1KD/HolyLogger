@@ -55,7 +55,7 @@ A: Try this <a href="https://www.iarc.org/holysquare/" target="_blank">online to
 <h2>Authors</h2>
 Consulting and QA: **_<a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>_**<br>
 Design and Code: **_<a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a>_**<br>
-
+<br>
 Many others have also contributed to the quality of the application with good advice, bug hunting and feature requests<br>
 I thank you all<br>
 
