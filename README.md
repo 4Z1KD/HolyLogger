@@ -45,7 +45,7 @@ You do **NOT** need to download both files!<br>
 <br>
 MSI is an installer package file format used by Windows. They are used for installation, storage, and removal of programs. The files are contained in a package, which is used with the program’s client-side installer service.<br>
 <br>
-The ZIP file contains all the program files, compressed in a folder. Once unzipped, the EXE file inside is ready fo execution.<br>
+The ZIP file contains all the program files, compressed in a folder. Once unzipped, the EXE file inside is ready for execution.<br>
 
 <h2>Installation</h2>
 Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the installation process.
