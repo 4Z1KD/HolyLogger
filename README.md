@@ -39,6 +39,12 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 A 32bit version of HolyLogger (Version 1.0.11) comes in 2 flavours:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">HolyLogger_x86.msi</a> - Microsoft Installer file<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.zip" target="_blank">HolyLogger.zip</a> - a compressed folder (.zip file)
+<br>
+Note:<br>
+You dont need to download both files!<br>
+MSI is an installer package file format used by Windows. They are used for installation, storage, and removal of programs. The files are contained in a package, which is used with the program’s client-side installer service.<br>
+<br>
+The ZIP file contains all the program files, compressed in a folder. Once unzipped, the EXE file inside is ready fo execution.<br>
 
 <h2>Installation</h2>
 Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the installation process.
