@@ -36,7 +36,7 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/omnirig.png?raw=true "omnirig")
 
 <h2>Downloads</h2>
-A 32bit version of HolyLogger (Version 1.0.11) comes in 2 flavours:<br>
+A 32bit version of HolyLogger (Version 1.0.12) comes in 2 flavours:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">HolyLogger_x86.msi</a> - Microsoft Installer file<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.zip" target="_blank">HolyLogger.zip</a> - a compressed folder (.zip file)<br>
 <br>
@@ -77,7 +77,7 @@ Buy me a beer on the next field day.
 The application is FREE for non commercial use by Amateur Radio Operators.
 
 <h3>Maintenance</h3>
-Last Update: 06/04/2017<br>
+Last Update: 08/04/2017<br>
 
 
 <script>
