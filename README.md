@@ -35,7 +35,7 @@ If installed, HolyLogger uses omnirig to communicate with the radio - it just se
 It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a><br>
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/omnirig.png?raw=true "omnirig")
 
-<h2>Downloads</h2>
+<h1>Download</h1>
 A 32bit version of HolyLogger comes in 2 flavours:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">HolyLogger_x86.msi</a> - Microsoft Installer file<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.zip" target="_blank">HolyLogger.zip</a> - a compressed folder (.zip file)<br>
