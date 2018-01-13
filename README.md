@@ -10,7 +10,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 
 <h2>Log Import / Export / Send</h2>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG?raw=true "HolyLogger Main Screen")
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG?raw=true "File toolbar menu")
 </a>
 
 **_File->Import_**<br>
@@ -23,10 +23,25 @@ You may also export to CSV format *(.csv)*.<br>
 **_File->Send Log_**<br>
 You may choose to upload your log file directly from HolyLogger, in this case the data is sent to the contest server and no file is generated.<br>
 
+<h2>Visualization</h2>
+You may enjoy 2 helpful extension windows - Signboard and Matrix
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/View.PNG" target="_blank">
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/View.PNG?raw=true "View toolbar menu")
+</a>
+
 <h2>The Signboard</h2>
-**_Tools->Signboard_**<br>Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
+**_View->Signboard_**<br>
+Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG?raw=true "HolyLogger Main Screen")
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG?raw=true "signboard")
+</a>
+
+<h2>The Matrix</h2>
+**_View->Matrix_**<br>
+Whenever a new callsign is entered, the Matrix will display a checkmark on the bands and modes you workd.<br>
+It will also display a DUP! message if you have already worked this band/mode combination.<br>
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG" target="_blank">
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG?raw=true "matrix")
 </a>
 
 <h2>QRZ.COM Subscription</h2>
