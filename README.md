@@ -91,14 +91,15 @@ Have a feature request? _No problem!_<br>
 Drop me a line at **_gil4z1kd@gmail.com_** and i'll take care of that.
 
 <h2>Donation</h2>
-Buy me a beer on the next field day.
+I have everything I've ever dreamed of.<br>
+Be nice to each other, it will make me happy.<br>
+Ah, and I will not mind if you buy me a beer the next day of the field.<br>
 
 <h2>License</h2>
 The application is FREE for non commercial use by Amateur Radio Operators.
 
 <h3>Maintenance</h3>
 Last Update: 12/04/2017<br>
-
 
 <script>
 var list = document.getElementById("logo");
