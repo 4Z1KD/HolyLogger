@@ -29,14 +29,12 @@ You may enjoy 2 helpful extension windows - Signboard and Matrix
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/View.PNG?raw=true "View toolbar menu")
 </a>
 
-<h2>The Signboard</h2>
 **_View->Signboard_**<br>
 Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG?raw=true "signboard")
 </a>
 
-<h2>The Matrix</h2>
 **_View->Matrix_**<br>
 Whenever a new callsign is entered, the Matrix will display a checkmark on the bands and modes you workd.<br>
 It will also display a DUP! message if you have already worked this band/mode combination.<br>
@@ -45,10 +43,11 @@ It will also display a DUP! message if you have already worked this band/mode co
 </a>
 
 <h2>QRZ.COM Subscription</h2>
-**_Tools->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/qrzcom.png?raw=true "QRZ.COM credentials")
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG" target="_blank">
+![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG?raw=true "QRZ.COM credentials")
 </a>
+
+**_Tools->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the handle and the dxcc entity of the DX station.<br>
 
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
