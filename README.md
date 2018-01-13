@@ -96,10 +96,10 @@ Be nice to each other, it will make me happy.<br>
 And... I will not mind if you buy me a beer on the next field day.<br>
 
 <h2>License</h2>
-The application is FREE for non commercial use by Amateur Radio Operators.
+The application is FREE for use by amateur radio operators.
 
 <h3>Maintenance</h3>
-Last Update: 12/04/2017<br>
+Last Update: 13/01/2018<br>
 
 <script>
 var list = document.getElementById("logo");
