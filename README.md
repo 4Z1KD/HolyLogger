@@ -8,15 +8,20 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/HolyLogger.png?raw=true "HolyLogger Main Screen")
 </a>
 
-<h2>Log Export / Upload</h2>
-**_File->Export_**<br>
-Generates a clean and readable ADIF format *(.adi)* log file you can import into your favorite Log applications.<br>
-
-**_File->Send Log_**<br>
-You may choose to upload your log file directly from HolyLogger, in this case the data is sent to the contest server and no file is generated.<br>
+<h2>Log Import / Export / Send</h2>
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG?raw=true "HolyLogger Main Screen")
 </a>
+
+**_File->Import_**<br>
+If, for some reason, you did not use HolyLogger during the contest, but still want to benefit from its amazing features - mainly the score calculator and "Send Log" - you may import your log, in ADIF format *(.adi)*
+
+**_File->Export_**<br>
+Generates a clean and readable ADIF format *(.adi)* log file you can import into your favorite Log applications.<br>
+You may also export to CSV format *(.csv)*.<br>
+
+**_File->Send Log_**<br>
+You may choose to upload your log file directly from HolyLogger, in this case the data is sent to the contest server and no file is generated.<br>
 
 <h2>The Signboard</h2>
 **_Tools->Signboard_**<br>Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
