@@ -42,12 +42,13 @@ It will also display a DUP! message if you have already worked this band/mode co
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG?raw=true "matrix")
 </a>
 
-<h2>QRZ.COM Subscription</h2>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG" target="_blank">
+<h2>Holylogger Options</h2>
+<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Options.PNG" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG?raw=true "QRZ.COM credentials")
 </a>
 
-**_Tools->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.<br>
+<h2>QRZ.COM Subscription</h2>
+**_Tools->Options->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.<br>
 
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
