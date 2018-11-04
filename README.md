@@ -92,7 +92,7 @@ Many others have also contributed to the quality of the application with good ad
 <h2>Contribution</h2>
 Found a Bug? _Don't panic!_<br>
 Have a feature request? _No problem!_<br>
-Drop me a line at **_gil4z1kd@gmail.com_** and i'll take care of that.
+Drop me a line at **_4z1kd@iarc.org_** and i'll take care of that.
 
 <h2>Donation</h2>
 I will not mind if you buy me a beer on the next field day.<br>
@@ -101,7 +101,7 @@ I will not mind if you buy me a beer on the next field day.<br>
 The application is FREE for use by amateur radio operators.
 
 <h3>Maintenance</h3>
-Last Update: 14/04/2018<br>
+Last Update: 04/11/2018<br>
 
 <script>
 var list = document.getElementById("logo");
