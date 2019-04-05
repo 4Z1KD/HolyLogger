@@ -42,12 +42,12 @@ It will also display a DUP! message if you have already worked this band/mode co
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG?raw=true "matrix")
 </a>
 
-<h2>HolyLogger Tools</h2>
+*HolyLogger Tools*<br/>
 <h3>Clear Log</h3>
-Delete the entire log. Use it when you want to start a fresh log. HolyLogger will create a backup ADIF file if you ever want to restore your QSOs.</br>
+Delete the entire log. Use it when you want to start a fresh log. HolyLogger will create a backup ADIF file if you ever want to restore your QSOs.<br/>
 
-<h3>Manual Mode</h3>
-Normally, HolyLogger will insert the current date and time to a new QSO but if for some reason you want to insert a bunch of QSO out of sync, it is usefull to ask the application not to update the date and time fields, and let you do that manually.</br>
+*Manual Mode*<br/>
+Normally, HolyLogger will insert the current date and time to a new QSO but if for some reason you want to insert a bunch of QSO out of sync, it is usefull to ask the application not to update the date and time fields, and let you do that manually.<br/>
 
 <a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG" target="_blank">
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG?raw=true "Tools")
