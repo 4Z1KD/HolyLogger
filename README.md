@@ -13,10 +13,10 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG?raw=true "File toolbar menu")
 </a>
 
-**_File->Import_**<br>
-If, for some reason, you did not use HolyLogger during the contest, but still want to benefit from its amazing features - mainly the score calculator and "Send Log" - you may import your log, in ADIF format *(.adi)*
+**_File->Import ADIF_**<br>
+If for some reason, you did not use HolyLogger during the contest, but still want to benefit from its amazing features - mainly the score calculation and "Send Log" - you may import your log, in ADIF format *(.adi)*
 
-**_File->Export_**<br>
+**_File->Export ADIF/CSV_**<br>
 Generates a clean and readable ADIF format *(.adi)* log file you can import into your favorite Log applications.<br>
 You may also export to CSV format *(.csv)*.<br>
 
