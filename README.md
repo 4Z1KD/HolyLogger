@@ -48,19 +48,19 @@ It will also display a DUP! message if you have already worked this band/mode co
 ![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG?raw=true "Tools")
 </a>
 
-**Clear Log**<br/>
+**_Tools->Clear Log_**<br/>
 Delete the entire log. Use it when you want to start a fresh log. HolyLogger will create a backup ADIF file if you ever want to restore your QSOs.<br/>
 
-**Manual Mode**<br/>
+**_Tools->Manual Mode_**<br/>
 Normally, HolyLogger will insert the current date and time to a new QSO but if for some reason you want to insert a bunch of QSO out of sync, it is usefull to ask the application not to update the date and time fields, and let you do that manually.<br/>
 
-**Reset QSO Counter**<br/>
+**_Tools->Reset QSO Counter_**<br/>
 The QSO Counter helps you keep track of the recenet QSOs. Every new QSO is added to the counter and the total count is presented on the status bar at the bottom of the screen. If you want to reset the counter, click this button<br/>
 
-**Full-Log QRZ Service**<br/>
+**_Tools->Full-Log QRZ Service_**<br/>
 This option is usefull when you import a log file from an external logger. It will go through every QSO and if the name is missing, it will try to retrieve it from QRZ.COM<br/>
 
-**Remove Duplicates**<br/>
+**_Tools->Remove Duplicates_**<br/>
 A "Duplicate" is when you have 2 QSOs with the same DX station on the same band and in the same mode. This option will delete one.
 
 <h2>QRZ.COM Subscription</h2>
