@@ -7,9 +7,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 ![image](https://user-images.githubusercontent.com/24712835/143568306-17b606bf-25ce-4f50-84f4-fdcf9571b8ff.png)
 
 <h2>Log Import / Export / Send</h2>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/File.PNG?raw=true "File toolbar menu")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143568884-cbd57c9c-72e4-44d8-b644-d772a85dbcf9.png)
 
 **_File->Import ADIF_**<br>
 If for some reason, you did not use HolyLogger during the contest, but still want to benefit from its amazing features - mainly the score calculation and "Send Log" - you may import your log, in ADIF format *(.adi)*
@@ -23,9 +21,7 @@ You may choose to upload your log file directly from HolyLogger, in this case th
 
 <h2>Visualization</h2>
 You may enjoy 2 helpful extension windows - Signboard and Matrix
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/View.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/View.PNG?raw=true "View toolbar menu")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143569393-c15ac5a9-cec6-46cf-acc6-9ebccd599b44.png)
 
 **_View->Signboard_**<br>
 Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
