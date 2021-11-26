@@ -59,9 +59,7 @@ A "Duplicate" is when you have 2 QSOs with the same DX station on the same band 
 
 <h2>QRZ.COM Subscription</h2>
 **_Tools->Options->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.<br>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Options.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Options.PNG?raw=true "QRZ.COM credentials")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143570816-ca6e0937-3da0-4e87-b123-28fc1b7f4ac8.png)
 
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
