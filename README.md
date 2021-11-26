@@ -25,16 +25,12 @@ You may enjoy 2 helpful extension windows - Signboard and Matrix
 
 **_View->Signboard_**<br>
 Will display your callsign and grid on a clean, seperate window so it is always there for you to take a look.<br>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Signboard.PNG?raw=true "signboard")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143571978-5a45bf6e-bdef-4505-9956-f27d0875ba1f.png)
 
 **_View->Matrix_**<br>
 Whenever a new callsign is entered, the Matrix will display a checkmark on the bands and modes you worked.<br>
 It will also display a DUP! message if you have already worked this band/mode combination.<br>
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Matrix.PNG?raw=true "matrix")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143572329-2785e9a3-0a72-43bb-b6e1-3845f56d6b1b.png)
 
 <h2>HolyLogger Tools</h2>
 
@@ -63,7 +59,7 @@ A "Duplicate" is when you have 2 QSOs with the same DX station on the same band 
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
 If installed, HolyLogger uses omnirig to communicate with the radio - it just sends frequency and mode requests to automatically update the frequency and mode fields in the log.<br>
 It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" target="_blank">download</a> from <a href="http://www.dxatlas.com/omnirig/" target="_blank">dxatlas.com</a><br>
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/omnirig.png?raw=true "omnirig")
+![image](https://user-images.githubusercontent.com/24712835/143572616-4b1507fb-4de4-415b-8867-2950a86b4e69.png)
 
 <h1>Download</h1>
 A 32bit version of HolyLogger comes in 2 flavours:<br>
