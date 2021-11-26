@@ -30,7 +30,7 @@ Will display your callsign and grid on a clean, seperate window so it is always 
 **_View->Matrix_**<br>
 Whenever a new callsign is entered, the Matrix will display a checkmark on the bands and modes you worked.<br>
 It will also display a DUP! message if you have already worked this band/mode combination.<br>
-![image](https://user-images.githubusercontent.com/24712835/143572329-2785e9a3-0a72-43bb-b6e1-3845f56d6b1b.png)
+![image](https://user-images.githubusercontent.com/24712835/143572973-21d0eb5d-ce10-4e24-af28-0fb948dc98fe.png)
 
 <h2>HolyLogger Tools</h2>
 
