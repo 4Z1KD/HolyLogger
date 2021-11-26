@@ -38,9 +38,7 @@ It will also display a DUP! message if you have already worked this band/mode co
 
 <h2>HolyLogger Tools</h2>
 
-<a href="https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG" target="_blank">
-![Alt text](https://raw.githubusercontent.com/4Z1KD/HolyLogger/master/Images/Tools.PNG?raw=true "Tools")
-</a>
+![image](https://user-images.githubusercontent.com/24712835/143571220-a63ced45-1079-4276-85dd-f6c61ddb312c.png)
 
 **_Tools->Clear Log_**<br/>
 Delete the entire log. Use it when you want to start a fresh log. HolyLogger will create a backup ADIF file if you ever want to restore your QSOs.<br/>
