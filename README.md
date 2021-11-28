@@ -100,7 +100,7 @@ Drop me a line at **_4z1kd@iarc.org_** and i'll take care of that.
 The application is FREE for use by amateur radio operators.
 
 <h3>Maintenance</h3>
-Last Update: 17/11/2021<br>
+Last Update: 28/11/2021<br>
 
 <script>
 var list = document.getElementById("logo");
