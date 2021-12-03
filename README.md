@@ -64,7 +64,6 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 <h1>Download</h1>
 32bit version of HolyLogger:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">HolyLogger_x86.msi</a> - Microsoft Installer file<br>
-<br>
 
 <h2>Installation</h2>
 Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the installation process.
