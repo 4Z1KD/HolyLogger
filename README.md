@@ -62,24 +62,12 @@ It is available for <a href="http://www.dxatlas.com/OmniRig/Files/OmniRig.zip" t
 ![image](https://user-images.githubusercontent.com/24712835/143572616-4b1507fb-4de4-415b-8867-2950a86b4e69.png)
 
 <h1>Download</h1>
-A 32bit version of HolyLogger comes in 2 flavours:<br>
+32bit version of HolyLogger:<br>
 <a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger_x86.msi" target="_blank">HolyLogger_x86.msi</a> - Microsoft Installer file<br>
-<a href="https://github.com/4Z1KD/HolyLogger/raw/master/HolyLogger.zip" target="_blank">HolyLogger.zip</a> - a compressed folder (.zip file)<br>
 <br>
-Note:<br>
-You do **NOT** need to download both files!<br>
-<br>
-MSI is an installer package file format used by Windows. They are used for installation, storage, and removal of programs. The files are contained in a package, which is used with the program’s client-side installer service.<br>
-<br>
-The ZIP file contains all the program files, compressed in a folder. Once unzipped, the EXE file inside is ready for execution.<br>
 
 <h2>Installation</h2>
 Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the installation process.
-
-If you downloaded the .zip file, just unzip it to your preffered destination e.g. Desktop or C:\ and execute *HolyLogger.exe*
-
-Reminder:<br>
-If you want QRZ.COM lookup to work, don't forget to update your credentials in the settings screen.
 
 <h2>My Holyland Square</h2>
 Q: How do I figure out what is my holyland square?<br>
