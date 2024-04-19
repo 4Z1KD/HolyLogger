@@ -81,7 +81,7 @@ Many others have also contributed to the quality of the application with a good 
 The application is FREE for use by amateur radio operators.
 
 <h3>Maintenance</h3>
-Last Update: 03/12/2021<br>
+Last Update: 04/10/2024<br>
 
 <script>
 var list = document.getElementById("logo");
