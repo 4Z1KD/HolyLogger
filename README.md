@@ -62,8 +62,7 @@ Q: How do I figure out what is my holyland square?<br>
 A: Try this <a href="https://www.iarc.org/holysquare/" target="_blank">online tool</a> or download the .APK file (for Android users) from the <a href="https://4z1kd.github.io/HolySquare/" target="_blank">app website</a>.
 
 <h2>Authors</h2>
-Consulting and QA: **_<a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>_**<br>
-Design and Code: **_<a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a>_**<br>
+Design and Code: <a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>, <a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a><br>
 <br>
 Many others have also contributed to the quality of the application with a good advice, bug hunting and feature requests.<br>
 
