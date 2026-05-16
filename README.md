@@ -8,7 +8,7 @@ Insert the dx station callsign, update the exchange field and hit F1 - That's it
 
 <h2>Log Import / Export / Send</h2>
 
-![image](https://user-images.githubusercontent.com/24712835/143568884-cbd57c9c-72e4-44d8-b644-d772a85dbcf9.png)
+<img width="1106" height="677" alt="2" src="https://github.com/user-attachments/assets/72a6758e-4699-4775-a3ae-36a37163ba78" />
 
 **_File->Import ADIF_**<br>
 If for some reason, you did not use HolyLogger during the contest, but still want to benefit from its amazing features - mainly the score calculation and "Send Log" - you may import your log, in ADIF format *(.adi)*
@@ -22,7 +22,7 @@ You may choose to upload your log file directly from HolyLogger, in this case th
 
 <h2>HolyLogger Tools</h2>
 
-![image](https://user-images.githubusercontent.com/24712835/143571220-a63ced45-1079-4276-85dd-f6c61ddb312c.png)
+<img width="1106" height="677" alt="3" src="https://github.com/user-attachments/assets/b1a9218e-343d-41ef-aa26-c05eb7cedd4d" />
 
 **_Tools->Clear Log_**<br/>
 Delete the entire log. Use it when you want to start a fresh log. HolyLogger will create a backup ADIF file if you ever want to restore your QSOs.<br/>
@@ -42,7 +42,7 @@ A "Duplicate" is when you have 2 QSOs with the same DX station on the same band 
 <h2>QRZ.COM Subscription</h2>
 **_Tools->Options->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.
 
-![image](https://user-images.githubusercontent.com/24712835/143570816-ca6e0937-3da0-4e87-b123-28fc1b7f4ac8.png)
+<img width="566" height="493" alt="image" src="https://github.com/user-attachments/assets/de2b8749-1e79-486c-a2a4-5e2f12fcc269" />
 
 <h2>Omni-Rig</h2>
 Omni-Rig is a COM component for transceiver/receiver CAT control.<br>
