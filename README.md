@@ -40,7 +40,7 @@ This option is usefull when you import a log file from an external logger. It wi
 A "Duplicate" is when you have 2 QSOs with the same DX station on the same band and in the same mode. This option will delete one.
 
 <h2>QRZ.COM Subscription</h2>
-**_Tools->Options->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.
+**_Tools->Options->QRZ Service_**<br>To take advantage of the qrz.com xml subscription, fill in your _QRZ.COM_ credentials. It will allow HolyLogger to get information and display the name and the dxcc entity of the DX station.<br/>
 
 <img width="566" height="493" alt="image" src="https://github.com/user-attachments/assets/de2b8749-1e79-486c-a2a4-5e2f12fcc269" />
 
