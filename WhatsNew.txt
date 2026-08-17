@@ -1,3 +1,10 @@
+== 8.8.9 ==
+
+Fixed
+- HolyLogger could fail to start when another program was using the
+  HolyCluster UDP port. It now starts, switches the listener off and
+  tells you which port was busy.
+
 == 8.8.8 ==
 
 New
