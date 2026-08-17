@@ -1,0 +1,40 @@
+== 8.8.8 ==
+
+New
+- Help > Support: write to the developers without leaving the program.
+  Screenshots can be pasted in. The error log is attached for you.
+- Help > Support: open the error log, or its folder.
+- Help > What's New: this list. It also opens by itself after an update.
+- Log Fixer finds duplicate contacts and removes them.
+- When two copies carry different comments you choose which to keep.
+- Log Fixer says which country findings are safe and which need
+  a decision. Press ? on any row to see what each country file says.
+- LoTW now tells you when it disagrees about a country.
+- eQSL can put back contacts your log has lost.
+- Right-click several rows in the log: delete, upload or export them
+  together. One Undo.
+- Activity programs are on the QSO form. No separate window.
+  The list says what each program is.
+- The program you picked survives Clear, Escape and logging, and is
+  remembered between sessions. Blank line = off.
+
+Fixed
+- Merging a file into a log no longer loses contacts.
+- Remove Duplicates and the import merge now use one rule.
+- A country that no longer existed is not offered for a later contact.
+- A special-event callsign is no longer given a country it only had
+  in other years.
+- The cluster stops putting your own callsign in the DX box.
+- A spot no longer sends an old frequency.
+- Windows always open fully on screen and come to the front.
+- The LoTW folder no longer mentions paper cards.
+- QRZ lookup and the cluster no longer freeze the program.
+
+Faster
+- Opening a log: 11.3 seconds down to 3.4.
+- Ticking thousands of rows in the Log Fixer is now instant.
+- Starting up no longer waits for the internet.
+
+Changed
+- Statistics: Club Log folder removed. Uploads to Club Log and its
+  country database are unchanged.
