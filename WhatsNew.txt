@@ -1,3 +1,9 @@
+== 8.9.0 ==
+
+Changed
+- Help > What's New now shows every version, not only the newest one.
+  The same list opens by itself after an update.
+
 == 8.8.9 ==
 
 Fixed
