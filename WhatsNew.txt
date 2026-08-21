@@ -1,3 +1,40 @@
+== 8.9.1 ==
+
+New
+- Try Again: keep the stations you meant to come back to, until you work them.
+- The Log Workshop is a window of its own.
+- An edit in the main window can be undone.
+- Verify checks a QSO and writes down what it found, as a table.
+- Cluster: A, K and SFI bars.
+- File > Compact the Database: gives back the space deleted QSOs leave behind.
+- Statistics answers "worked, but not confirmed".
+- The splash screen shows a spinner and the seconds.
+- Sun and propagation figures now come from IARC.
+
+Fixed
+- A window that is not in the taskbar can no longer be minimised out of sight.
+- Import: Stop really stops, and undoes what it had done.
+- Import: one report instead of several.
+- Import: replacing a log can no longer lose it.
+- Import: the list of skipped repeats is capped, and the count is right.
+- Import: the spinner no longer stutters.
+- The callsign list can no longer shrink by itself.
+- Typing a prefix like SV1 is no longer treated as an unsaved QSO.
+- OmniRig: you are now told when radio control cannot start.
+- Remove Duplicates: you are told if a QSO could not be removed.
+- Backups are capped by size, so they cannot fill the disk.
+- The maps no longer need the internet for their own program files.
+- The update question says the program will close and will not start again by
+  itself, and shows your version beside the new one.
+
+Faster
+- The pause of seven to eight seconds a moment after the window opens: gone.
+- A 28,000-QSO log opens in under two seconds instead of five and a half.
+- The window appears in about half the time.
+- Much less processor used while you leave the program alone.
+- The radio is no longer polled twice a second.
+- Scrolling the log is lighter.
+
 == 8.9.0 ==
 
 Changed
