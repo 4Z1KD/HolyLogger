@@ -1,6 +1,20 @@
 == 8.9.1 ==
 
 New
+- Send CW by typing: put the radio in CW and the CW Keyer opens by itself. What you type
+  goes out as you type it. Ctrl+K opens and closes it at any time.
+- The keyer shows two rows: what is still to be sent on top, what has already gone below it
+  in blue. The text turns blue letter by letter as the radio keys it.
+- Each thing you send becomes its own line, pushing the earlier lines down.
+- Type too slowly and the radio falls silent in the middle of a word, which the listener
+  hears as two words. When that happens a space is written into the line so you can see it.
+- The title bar shows the keying speed the program has measured from your radio.
+- Eight buttons along the bottom for the things you send over and over. Left-click sends,
+  right-click edits. The first four are the same texts as the Msg buttons.
+- CW texts take short marks that are filled in when you send: * your Station Callsign,
+  ! the DX Callsign, # the serial number, $ the rest of your sent exchange. The last two
+  need contest mode. The editor shows a second row with exactly what will go on air.
+- The keyer remembers where you put it and how wide you made it.
 - Try Again: keep the stations you meant to come back to, until you work them.
 - The Log Workshop is a window of its own.
 - An edit in the main window can be undone.
@@ -12,6 +26,10 @@ New
 - Sun and propagation figures now come from IARC.
 
 Fixed
+- CW: the program worked out the length of a Morse message about a seventh too long, so the
+  keying speed it showed was too fast and the moving cursor reached the last letter after you
+  had already heard it. Both are fixed, on the Msg buttons as well.
+- What's New is shown on the first run after every install, whatever the version number.
 - A window that is not in the taskbar can no longer be minimised out of sight.
 - Import: Stop really stops, and undoes what it had done.
 - Import: one report instead of several.
