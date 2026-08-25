@@ -1,108 +1,104 @@
 == 8.9.1 ==
 
 New
-- Send CW by typing: put the radio in CW and the CW Keyer opens by itself. What you type
-  goes out as you type it. Ctrl+K opens and closes it at any time.
-- The keyer shows two rows: what is still to be sent on top, what has already gone below it
-  in blue. The text turns blue letter by letter as the radio keys it.
-- Each thing you send becomes its own line, pushing the earlier lines down.
-- Type too slowly and the radio falls silent in the middle of a word, which the listener
-  hears as two words. When that happens a space is written into the line so you can see it.
-- The title bar shows the keying speed the program has measured from your radio.
-- Eight buttons along the bottom for the things you send over and over. Left-click sends,
+- Send CW by typing: put the radio in CW and the CW Keyer opens by itself. What you type goes
+  out as you type it. Ctrl+K opens and closes it at any time.
+- Two rows: what is still to be sent on top, what has already gone below it in blue. The text
+  turns blue letter by letter as the radio keys it.
+- One line per send: each thing you send becomes its own line, pushing the earlier lines down.
+- Typing too slowly: the radio falls silent in the middle of a word, which the listener hears
+  as two words. When that happens a space is written into the line so you can see it.
+- Keying speed: the title bar shows the speed the program has measured from your radio.
+- Eight buttons: along the bottom, for the things you send over and over. Left-click sends,
   right-click edits. The first four are the same texts as the Msg buttons.
-- CW texts take short marks that are filled in when you send: * your Station Callsign,
-  ! the DX Callsign, # the serial number, $ the rest of your sent exchange. The last two
-  need contest mode. The editor shows a second row with exactly what will go on air.
-- The keyer remembers where you put it and how wide you made it.
+- Short marks: filled in when you send - * your Station Callsign, ! the DX Callsign, # the
+  serial number, $ the rest of your sent exchange. The last two need contest mode. The editor
+  shows a second row with exactly what will go on air.
+- The keyer remembers: where you put it and how wide you made it.
 - Try Again: keep the stations you meant to come back to, until you work them.
-- The Log Workshop is a window of its own.
-- An edit in the main window can be undone.
-- Verify checks a QSO and writes down what it found, as a table.
+- Log Workshop: a window of its own.
+- Undo: an edit in the main window can be taken back.
+- Verify: checks a QSO and writes down what it found, as a table.
 - Cluster: A, K and SFI bars.
 - File > Compact the Database: gives back the space deleted QSOs leave behind.
-- Statistics answers "worked, but not confirmed".
-- The splash screen shows a spinner and the seconds.
-- Sun and propagation figures now come from IARC.
+- Statistics: answers "worked, but not confirmed".
+- Splash screen: a spinner and the seconds.
+- Sun and propagation: the figures now come from IARC.
 
 Fixed
 - CW: the program worked out the length of a Morse message about a seventh too long, so the
   keying speed it showed was too fast and the moving cursor reached the last letter after you
   had already heard it. Both are fixed, on the Msg buttons as well.
-- What's New is shown on the first run after every install, whatever the version number.
-- A window that is not in the taskbar can no longer be minimised out of sight.
+- What's New: shown on the first run after every install, whatever the version number.
+- Windows: one that is not in the taskbar can no longer be minimised out of sight.
 - Import: Stop really stops, and undoes what it had done.
 - Import: one report instead of several.
 - Import: replacing a log can no longer lose it.
 - Import: the list of skipped repeats is capped, and the count is right.
 - Import: the spinner no longer stutters.
-- The callsign list can no longer shrink by itself.
-- Typing a prefix like SV1 is no longer treated as an unsaved QSO.
+- Callsign list: it can no longer shrink by itself.
+- Prefixes: typing SV1 is no longer treated as an unsaved QSO.
 - OmniRig: you are now told when radio control cannot start.
 - Remove Duplicates: you are told if a QSO could not be removed.
-- Backups are capped by size, so they cannot fill the disk.
-- The maps no longer need the internet for their own program files.
-- The update question says the program will close and will not start again by
-  itself, and shows your version beside the new one.
+- Backups: capped by size, so they cannot fill the disk.
+- Maps: no longer need the internet for their own program files.
+- The update question: says the program will close and will not start again by itself, and
+  shows your version beside the new one.
 
 Faster
-- The pause of seven to eight seconds a moment after the window opens: gone.
-- A 28,000-QSO log opens in under two seconds instead of five and a half.
-- The window appears in about half the time.
-- Much less processor used while you leave the program alone.
-- The radio is no longer polled twice a second.
-- Scrolling the log is lighter.
+- Startup pause: the seven to eight seconds a moment after the window opens are gone.
+- Opening a log: 28,000 QSOs in under two seconds instead of five and a half.
+- The main window: appears in about half the time.
+- Idle: much less processor used while you leave the program alone.
+- Radio polling: no longer twice a second.
+- Scrolling the log: lighter.
 
 == 8.9.0 ==
 
 Changed
-- Help > What's New now shows every version, not only the newest one.
-  The same list opens by itself after an update.
+- Help > What's New: shows every version, not only the newest one. The same list opens by
+  itself after an update.
 
 == 8.8.9 ==
 
 Fixed
-- HolyLogger could fail to start when another program was using the
-  HolyCluster UDP port. It now starts, switches the listener off and
-  tells you which port was busy.
+- Starting up: HolyLogger could fail to start when another program was using the HolyCluster
+  UDP port. It now starts, switches the listener off and tells you which port was busy.
 
 == 8.8.8 ==
 
 New
-- Help > Support: write to the developers without leaving the program.
-  Screenshots can be pasted in. The error log is attached for you.
+- Help > Support: write to the developers without leaving the program. Screenshots can be
+  pasted in. The error log is attached for you.
 - Help > Support: open the error log, or its folder.
 - Help > What's New: this list. It also opens by itself after an update.
-- Log Fixer finds duplicate contacts and removes them.
-- When two copies carry different comments you choose which to keep.
-- Log Fixer says which country findings are safe and which need
-  a decision. Press ? on any row to see what each country file says.
-- LoTW now tells you when it disagrees about a country.
-- eQSL can put back contacts your log has lost.
-- Right-click several rows in the log: delete, upload or export them
-  together. One Undo.
-- Activity programs are on the QSO form. No separate window.
-  The list says what each program is.
-- The program you picked survives Clear, Escape and logging, and is
-  remembered between sessions. Blank line = off.
+- Log Fixer: finds duplicate contacts and removes them.
+- Different comments: when two copies carry different comments you choose which to keep.
+- Log Fixer: says which country findings are safe and which need a decision. Press ? on any row
+  to see what each country file says.
+- LoTW: tells you when it disagrees about a country.
+- eQSL: can put back contacts your log has lost.
+- Right-click several rows in the log: delete, upload or export them together. One Undo.
+- Activity programs: on the QSO form, no separate window. The list says what each program is.
+- The program you picked: survives Clear, Escape and logging, and is remembered between
+  sessions. Blank line = off.
 
 Fixed
-- Merging a file into a log no longer loses contacts.
-- Remove Duplicates and the import merge now use one rule.
-- A country that no longer existed is not offered for a later contact.
-- A special-event callsign is no longer given a country it only had
-  in other years.
-- The cluster stops putting your own callsign in the DX box.
-- A spot no longer sends an old frequency.
-- Windows always open fully on screen and come to the front.
-- The LoTW folder no longer mentions paper cards.
-- QRZ lookup and the cluster no longer freeze the program.
+- Merging: a file into a log no longer loses contacts.
+- Remove Duplicates: it and the import merge now use one rule.
+- Countries: one that no longer existed is not offered for a later contact.
+- Special-event callsigns: no longer given a country they only had in other years.
+- Cluster: stops putting your own callsign in the DX box.
+- Spots: no longer sent with an old frequency.
+- Windows: always open fully on screen and come to the front.
+- LoTW folder: no longer mentions paper cards.
+- QRZ lookup and the cluster: no longer freeze the program.
 
 Faster
 - Opening a log: 11.3 seconds down to 3.4.
-- Ticking thousands of rows in the Log Fixer is now instant.
-- Starting up no longer waits for the internet.
+- Log Fixer: ticking thousands of rows is now instant.
+- Starting up: no longer waits for the internet.
 
 Changed
-- Statistics: Club Log folder removed. Uploads to Club Log and its
-  country database are unchanged.
+- Statistics: Club Log folder removed. Uploads to Club Log and its country database are
+  unchanged.
