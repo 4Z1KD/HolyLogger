@@ -1,6 +1,18 @@
 == 8.9.1 ==
 
 New
+- Ask an AI: right-click a QSO and choose Ask AI to check this QSO. It reads the fields and
+  writes back what it makes of them.
+- Check with AI: in the Log Fixer, the QSOs where cty.dat and Club Log disagree can be put to
+  an AI. It never changes anything - the line it believes turns green, the other turns grey.
+- The AI must name its evidence: the prefix rule or the Club Log dates it used. The report
+  keeps what it said, why, and which model said it.
+- Options > AI Service: set it up in one place - credit, key and model - with a picture for
+  every step. It is paid, on your own OpenRouter account: prepaid, a few cents a run, and no
+  card is kept.
+- CW Keyer: the keycaps are cyan, and View > CW Keyer opens it.
+- Help > Visit HolyLogger site.
+- What's New: every item starts with a bold subject, so the eye finds the one it wants.
 - Send CW by typing: put the radio in CW and the CW Keyer opens by itself. What you type goes
   out as you type it. Ctrl+K opens and closes it at any time.
 - Two rows: what is still to be sent on top, what has already gone below it in blue. The text
@@ -26,6 +38,8 @@ New
 - Sun and propagation: the figures now come from IARC.
 
 Fixed
+- Custom image: choosing it no longer throws the file explorer open by itself.
+- Options: the Browse button was too short for its own text.
 - CW: the program worked out the length of a Morse message about a seventh too long, so the
   keying speed it showed was too fast and the moving cursor reached the last letter after you
   had already heard it. Both are fixed, on the Msg buttons as well.
@@ -62,6 +76,8 @@ Changed
 == 8.8.9 ==
 
 Fixed
+- Custom image: choosing it no longer throws the file explorer open by itself.
+- Options: the Browse button was too short for its own text.
 - Starting up: HolyLogger could fail to start when another program was using the HolyCluster
   UDP port. It now starts, switches the listener off and tells you which port was busy.
 
@@ -84,6 +100,8 @@ New
   sessions. Blank line = off.
 
 Fixed
+- Custom image: choosing it no longer throws the file explorer open by itself.
+- Options: the Browse button was too short for its own text.
 - Merging: a file into a log no longer loses contacts.
 - Remove Duplicates: it and the import merge now use one rule.
 - Countries: one that no longer existed is not offered for a later contact.
