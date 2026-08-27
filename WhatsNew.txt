@@ -1,3 +1,23 @@
+﻿== 8.9.2 ==
+
+New
+- Country box: the country on the main form is now a list. Type and it offers the countries
+  whose name BEGINS with what you typed - digits find the entity number, so 33 finds 336.
+  Picking one sets the name, the flag, the number, the continent and the zones together.
+- Your own country wins: a country you choose by hand survives editing the callsign
+  afterwards, and is what gets logged. Add or Clear ends it.
+- Log Fixer remembers: a QSO it has put right is not raised again the next time you open it.
+- Fixed filter: the Log Workshop can show only the QSOs the Log Fixer has corrected, or only
+  the ones it has not.
+- Search and Clear stay grey until a filter is set, and turn blue together. Escape does what
+  Clear does, including nothing.
+
+Fixed
+- The log table now shows a correction the moment the Log Fixer writes it. A country put right
+  appeared in the Log Workshop and stayed wrong in the main window behind it.
+- Ticking the Fix box in the table header was a coffee break on a big log. It is immediate.
+- Clearing the Workshop left the Country box grey instead of white.
+
 == 8.9.1 ==
 
 New
