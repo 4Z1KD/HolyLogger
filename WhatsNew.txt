@@ -1,4 +1,29 @@
-﻿== 8.9.4 ==
+﻿== 8.9.5 ==
+
+Fixed
+- Your log comes back by itself. Updating from an older version could delete the log
+  file: the old installer put a file of that name in your data folder, so Windows
+  removed it as its own when it took the old version away. HolyLogger now notices and
+  puts your log back from the newest daily backup before it finishes starting. You are
+  not asked anything.
+- And you are never asked to create a log again. If you have been using HolyLogger,
+  the program opens your log. The create-a-log window is only for a brand new operator,
+  or for a log from the very old single-log HolyLogger.
+- If you already took 8.9.4, were asked, and made an empty log, your QSOs come back on
+  this update.
+
+New
+- The update question is two lines instead of a page. It says the new version, your
+  version, and asks. A "Show me what is new" button opens the list of changes, and
+  closing it brings the question back.
+- Cluster: the gear is out of the title bar. It now sits beside the undo icon, where it
+  can be seen, and the window cannot be made narrow enough to hide it.
+- Lite CW keyer on the menu bar: one line to type CW into without opening the CW Keyer
+  window. It is there while that window is closed, with its own WPM and mouse wheel.
+- The CQ button asks first. On a frequency you have not called on it sends QRL?, and the
+  next press calls CQ. It sits red while it will ask. Right-click it to edit both texts.
+
+== 8.9.4 ==
 
 New
 - CW keyer: twelve buttons in two banks of six, pressed by F1 to F12, with your own
