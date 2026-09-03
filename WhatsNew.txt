@@ -1,6 +1,97 @@
-﻿== 8.9.2 ==
+﻿== 8.9.4 ==
 
 New
+- CW keyer: twelve buttons in two banks of six, pressed by F1 to F12, with your own
+  names on the keycaps.
+- One editor for every CW text, opened from the keyer, with a standard set installed
+  to start from.
+- The CQ button asks first. On a frequency you have not called on it sends QRL?, and
+  the next press calls CQ. It sits red while it will ask. This works on the keyer's
+  first button and on the first of the four Msg buttons.
+- WPM in the keyer's title bar, read from the radio itself. Roll the mouse wheel over
+  it to change the speed.
+- Lite CW keyer on the menu bar: one line to type CW into without opening the keyer
+  window. It is there while that window is closed, and it has its own WPM and wheel.
+- Enter Sends Message: Off, Run and S&P on the keyer's title bar, and a choice of
+  typing straight onto the air or holding the line for Enter.
+- The keyer's typing line no longer runs off the side. What the radio has finished
+  with drops into the record below it.
+- Cluster alerts: a watch list of callsigns. A spot on the list rings, is pinned to
+  the top of the list and wears a purple frame.
+- Right-click a spot and choose Copy to Alert to put that callsign on the list.
+- The alerts have a sound of their own.
+- A callsign that is not shaped like a callsign is now warned about, and can still be
+  logged.
+- Help > Which radios can send CW now covers the voice messages too. Every line was
+  read from the maker's own manual.
+- Log Fixer writes down what it changed, and can put it back.
+- Activity list: Contest is a yellow key with a line under it, and Activate & Open Log
+  is a green button.
+- Tooltips: eight words to a line, and one colour in every scheme.
+
+Fixed
+- A UDP port could go deaf after a single failure and stay deaf until the program was
+  restarted.
+- Compact asks again when the FILE has grown, not only when the empty space has. A log
+  declined once was never asked about again, however big it got.
+- A message window could be measured wrongly on a scaled screen, so the text did not
+  fit the window it was given.
+
+Faster
+- Startup: the LoTW list and the UDP sockets no longer hold up the window, and the
+  splash gives back about three quarters of a second.
+- The CW keyer redrew its typing line twenty times a second with nothing being sent.
+  It redraws only when something has moved.
+
+== 8.9.3 ==
+
+New
+- Log Fixer asks first: All, Never checked, Already checked and fixed, Already
+  checked and approved - each with its own count.
+- One kind at a time: pick a kind and the table shows only that kind.
+- Two boxes on a row: Fix takes the correction, Do not change keeps the QSO as it is.
+- A QSO you leave with Do not change is approved and never raised again. It is kept
+  as approved by you, or approved with the AI.
+- The AI ticks the boxes for you: Fix where it wants a correction, Do not change
+  where it agrees with your log.
+- Check with AI now also asks about the QSOs where cty.dat and Club Log agree
+  against your log.
+- Google Gemini is back: a free AI service, no credit card, in Options > AI Service.
+- Ctrl+Z puts the tick boxes back.
+- Already checked and fixed, or approved, opens a plain list of those QSOs.
+- Tools > Open OmniRig is now the first item in the menu.
+
+Fixed
+- Check with AI asked about QSOs that were not on the screen.
+- QSOs you had just settled came straight back on the next check.
+
+Faster
+- Pressing Fix no longer looks frozen: the database copy and the log reload happen
+  behind the spinner, and the marking is written in batches.
+
+== 8.9.2 ==
+
+New
+- Radio Control Panel: a window of band buttons, each holding an SSB and a CW frequency, with
+  SSB and CW buttons and a box to type a frequency into. Switched on in Options > User
+  Interface.
+- Tune with the mouse wheel: over the LED, over the panel's frequency box, or over the Live
+  Scale spot list. A notch is worth what the pointer is over - kHz on the left of the point,
+  Hz on the right - and the first notch tidies an odd frequency up to the whole kHz. It will
+  not walk you outside the band.
+- Tools > Open OmniRig opens OmniRig's own settings window, where the radio and its COM port
+  are chosen. Until now that window could only be reached from OmniRig's tray icon.
+- CW on a Yaesu: the keyer now works on the FT-891, FT-991, FT-991A, FTDX10, FTDX101D,
+  FTDX101MP and FT-710. Yaesu has no command that keys typed text, so HolyLogger writes your
+  text into CW memory 5 and plays it - keep nothing you want to save in memory 5.
+- CW on any Icom: the radio's address is read from OmniRig's own file instead of a list of
+  three, so every Icom OmniRig supports can be keyed - the IC-9700, IC-705 and IC-7100 among
+  them.
+- Help > Which radios can send CW: which radios HolyLogger can key, and whether yours is one.
+  Every model on it was read out of its own maker's command manual.
+- Messages tell you what to do: an error now says where things stand and the one thing worth
+  trying, instead of only what went wrong. Where nothing can honestly be advised it says so
+  rather than telling you to try again.
 - Country box: the country on the main form is now a list. Type and it offers the countries
   whose name BEGINS with what you typed - digits find the entity number, so 33 finds 336.
   Picking one sets the name, the flag, the number, the continent and the zones together.
@@ -11,12 +102,103 @@ New
   the ones it has not.
 - Search and Clear stay grey until a filter is set, and turn blue together. Escape does what
   Clear does, including nothing.
+- Ask an AI: right-click a QSO and choose Ask AI to check this QSO. It reads the fields and
+  writes back what it makes of them.
+- Check with AI: in the Log Fixer, the QSOs where cty.dat and Club Log disagree can be put to
+  an AI. It never changes anything - the line it believes turns green, the other turns grey.
+- The AI must name its evidence: the prefix rule or the Club Log dates it used. The report
+  keeps what it said, why, and which model said it.
+- Options > AI Service: set it up in one place - credit, key and model - with a picture for
+  every step. It is paid, on your own OpenRouter account: prepaid, a few cents a run, and no
+  card is kept.
+- CW Keyer: the keycaps are cyan, and View > CW Keyer opens it.
+- Help > Visit HolyLogger site.
+- What's New: every item starts with a bold subject, so the eye finds the one it wants.
+- Send CW by typing: put the radio in CW and the CW Keyer opens by itself. What you type goes
+  out as you type it. Ctrl+K opens and closes it at any time.
+- Two rows: what is still to be sent on top, what has already gone below it in blue. The text
+  turns blue letter by letter as the radio keys it.
+- One line per send: each thing you send becomes its own line, pushing the earlier lines down.
+- Typing too slowly: the radio falls silent in the middle of a word, which the listener hears
+  as two words. When that happens a space is written into the line so you can see it.
+- Set the keying speed from the keyer: the CW Keyer's title bar shows WPM and a number. Roll
+  the mouse wheel over it and the radio's keyer speed changes with it, 5 to 30 words a minute,
+  so you never reach past the program to the radio's own menu. Arrows beside the number are
+  the hint that it turns.
+- The speed is sent again when the keyer opens, so the number you are reading is the speed the
+  radio is keying at. Turning the radio's own speed knob afterwards still wins - it is one
+  setting with two controls, and the last one touched decides.
+- Every speed command was taken from the maker's own command manual: KS on Kenwood, Yaesu and
+  Elecraft, command 14 sub-command 0C on Icom, and each radio is held to the range its manual
+  gives - a TS-480 no slower than 10, an Elecraft no slower than 8, an Icom no faster than 48.
+- On a radio HolyLogger cannot command, the title bar still shows the speed measured from your
+  keying, as before.
+- Eight buttons: along the bottom, for the things you send over and over. Left-click sends,
+  right-click edits. The first four are the same texts as the Msg buttons.
+- Short marks: filled in when you send - * your Station Callsign, ! the DX Callsign, # the
+  serial number, $ the rest of your sent exchange. The last two need contest mode. The editor
+  shows a second row with exactly what will go on air.
+- The keyer remembers: where you put it and how wide you made it.
+- Try Again: keep the stations you meant to come back to, until you work them.
+- Log Workshop: a window of its own.
+- Undo: an edit in the main window can be taken back.
+- Verify: checks a QSO and writes down what it found, as a table.
+- Cluster: A, K and SFI bars.
+- File > Compact the Database: gives back the space deleted QSOs leave behind.
+- Statistics: answers "worked, but not confirmed".
+- Splash screen: a spinner and the seconds.
+- Sun and propagation: the figures now come from IARC.
 
 Fixed
+- "You changed settings since the profile was saved" was asked on every close, of operators who
+  had changed nothing. The profile was watching things the program writes by itself - the
+  radio's frequency above all, which moves every time you turn the VFO - and they are out of
+  profiles now. They are still remembered from one session to the next; they simply no longer
+  count as something you chose.
+- A port typed in Options was forgotten if you closed the window with the X while the caret was
+  still in the box. It is kept now, along with anything else typed on that page.
+- CW keying refused radios it could key: an IC-7300-DATA is an IC-7300, and every Elecraft was
+  turned away because of the name OmniRig gives it. K3, K3S, K4, KX2 and KX3 all key now.
+- CW text was sent four characters too long for a Kenwood or an Elecraft, and the overflow was
+  cut without a word.
+- The CW keyer accepted pasted text a keyer cannot send - Hebrew, curly quotes - and then
+  dropped every character of it on the way to the radio. It is cleaned as it is pasted now.
+- A failed Add no longer empties the form. It used to tell you the QSO was not saved and wipe
+  what you had typed in the same breath.
+- Message windows grow to fit what they have to say, and a long one can no longer push its own
+  OK button off the bottom of the screen.
 - The log table now shows a correction the moment the Log Fixer writes it. A country put right
   appeared in the Log Workshop and stayed wrong in the main window behind it.
 - Ticking the Fix box in the table header was a coffee break on a big log. It is immediate.
 - Clearing the Workshop left the Country box grey instead of white.
+- Custom image: choosing it no longer throws the file explorer open by itself.
+- Options: the Browse button was too short for its own text.
+- CW: the program worked out the length of a Morse message about a seventh too long, so the
+  keying speed it showed was too fast and the moving cursor reached the last letter after you
+  had already heard it. Both are fixed, on the Msg buttons as well.
+- What's New: shown on the first run after every install, whatever the version number.
+- Windows: one that is not in the taskbar can no longer be minimised out of sight.
+- Import: Stop really stops, and undoes what it had done.
+- Import: one report instead of several.
+- Import: replacing a log can no longer lose it.
+- Import: the list of skipped repeats is capped, and the count is right.
+- Import: the spinner no longer stutters.
+- Callsign list: it can no longer shrink by itself.
+- Prefixes: typing SV1 is no longer treated as an unsaved QSO.
+- OmniRig: you are now told when radio control cannot start.
+- Remove Duplicates: you are told if a QSO could not be removed.
+- Backups: capped by size, so they cannot fill the disk.
+- Maps: no longer need the internet for their own program files.
+- The update question: says the program will close and will not start again by itself, and
+  shows your version beside the new one.
+
+Faster
+- Startup pause: the seven to eight seconds a moment after the window opens are gone.
+- Opening a log: 28,000 QSOs in under two seconds instead of five and a half.
+- The main window: appears in about half the time.
+- Idle: much less processor used while you leave the program alone.
+- Radio polling: no longer twice a second.
+- Scrolling the log: lighter.
 
 == 8.9.1 ==
 
