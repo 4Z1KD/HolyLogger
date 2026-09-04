@@ -1,4 +1,27 @@
-﻿== 8.9.5 ==
+﻿== 8.9.6 ==
+
+New
+- UDP Ports Manager: the three fixed ports become a table you write yourself, as many
+  lines as you like, and a port typed is kept.
+- Receiving needs no setting up: N1MM+ radio info fills the frequency and mode, a
+  contact from N1MM+ or an ADIF record is logged, and a WSJT-X status puts the callsign
+  in the DX box. A contact already in your log is not stored twice.
+- Sending: give a line an address, a port and a format - ADIF, WSJT-X, N1MM+ XML, or
+  your radio's frequency as you tune - and it goes out as each contact is logged.
+- The QSO editor shows the DXCC number beside the country. That number is what LoTW,
+  Club Log and every award count by, and it was not on the screen written for checking
+  a QSO. Correct the callsign and the number now follows the country.
+- Three more fields in the QSO editor: Contest ID, County and Credit Granted.
+- Right-click a QSO in the log and choose Edit and you get that same full window,
+  wherever you ask from. Double-click still fills the form at the top of the window,
+  in yellow, as before.
+
+Fixed
+- The red "unexpected error" box after ticking a box in a table is gone. It came from
+  Windows itself, nothing was lost, and there was nothing you could do about it.
+- Log Fixer: Check with AI is hidden rather than greyed out where it cannot be used.
+
+== 8.9.5 ==
 
 Fixed
 - Your log comes back by itself. Updating from an older version could delete the log
