@@ -1,4 +1,49 @@
-﻿== 8.9.6 ==
+﻿== 8.9.7 ==
+
+New
+- A log you delete is kept: its QSOs are written to an ADIF file first, so it can be brought back.
+- Deleted Logs, in the Log Manager, opens that folder. Import Deleted Log brings a log back.
+- Backups & Restore can move that folder, and the files already saved move with it.
+- Notes: the ADIF note a QSO was imported with now has a column of its own.
+- It is in the log table, in Full View & Edit, and in the Log Workshop, where you can search it.
+- Name and Comment can be sorted by.
+- Cluster: drag the Live Scale list to tune the radio.
+- Cluster: a new-country spot is announced out loud.
+- Cluster: every button, tick and column now says what it is when you hover it.
+- The Msg buttons arrive named: CQ, Exch, TU and Call on CW, Msg1-Msg4 on voice.
+- The CQ button can be named for the question it asks, and Enter works in every mode.
+- Export to ADIF, Cabrillo or CSV opens on a folder of its own and remembers where you put it.
+- The Try Again key shows how many are waiting on its face.
+- My Locator fills itself from QRZ.com once the station callsign is set.
+- Each log has its own upload queue.
+- LoTW: the program finds TQSL by itself.
+- The Log Workshop can search by what was uploaded.
+- Radio Control Panel: a tick per band, an RTTY column, three more bands, RTTY, AM and FM.
+- The CW keyer opens on any mode and Ctrl+K keeps it open.
+- The macro editor holds both halves of a button: its name and its text.
+- Grid locators of 10 characters are accepted and checked against the country.
+- The log shows the QSO time with seconds.
+- Import ADIF is one flow with fewer windows, and you decide every change.
+- The Options page list is striped like the log table.
+
+Fixed
+- Full View & Edit: Contest ID, County and Credit Granted were thrown away on Save.
+- Re-importing a file now fills in notes, and Undo no longer empties the carried ADIF.
+- The Log Workshop opened too narrow: the end of a filter row was off the right edge.
+- "Received Confirmation" was cut off top and bottom.
+- Backspace could take back a letter the radio already had, and the keyer went deaf.
+- Clear stopped promising F9 while the keyer owns it.
+- The DX callsign is never framed in red, and Update fits its own name.
+- Contest: the exchange cells fit inside their coloured bars.
+- Cabrillo times are back to HHMM.
+- Cluster: a plain arrow over the column headings, not a hand.
+
+Faster
+- The start no longer freezes for 13 seconds: a one-time repair of old notes ran on every start.
+- Deleting a log, and exporting one, no longer read every QSO in the database.
+- The Log Workshop ticks rows quickly again.
+
+== 8.9.6 ==
 
 New
 - UDP Ports Manager: the three fixed ports become a table you write yourself, as many
