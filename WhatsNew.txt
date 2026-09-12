@@ -1,4 +1,12 @@
-﻿== 8.9.7 ==
+﻿== 8.9.8 ==
+
+Fixed
+- CW keyer: fixed a bug that could leave it locked out even though the radio could send.
+
+New
+- Radio Control Panel: each band button now shows its own colour in the corner.
+
+== 8.9.7 ==
 
 New
 - A log you delete is kept: its QSOs are written to an ADIF file first, so it can be brought back.
