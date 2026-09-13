@@ -1,4 +1,19 @@
-﻿== 8.9.8 ==
+﻿== 8.9.9 ==
+
+New
+- Try Again: right-click the frequency box to keep a station you cannot name yet.
+- Log Workshop: a field you search by now gets its own column in the results.
+
+Fixed
+- Import: the Station Callsign box now fills in with the imported log's callsign.
+- Contest: Tab from the callsign goes straight to the exchange.
+- Import Duplicates is now set in the import window only.
+
+Faster
+- Saving a QSO with F1 is much faster.
+- After F1 you can type the next callsign right away.
+
+== 8.9.8 ==
 
 Fixed
 - CW keyer: fixed a bug that could leave it locked out even though the radio could send.
