@@ -1,3 +1,13 @@
+== 8.9.11 ==
+
+New
+- ADIF Monitor: HolyLogger can watch the ADIF file another program writes, like WSJT-X.
+- It asks before adding new contacts, and tells you how many and which log.
+
+Fixed
+- Radio Control Panel: a frequency outside its band is not accepted.
+- Radio Control Panel: the RTTY column title is no longer cut off.
+
 == 8.9.10 ==
 
 New
