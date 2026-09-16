@@ -1,4 +1,16 @@
-﻿== 8.9.9 ==
+== 8.9.10 ==
+
+New
+- Export one QSO to ADIF from the right-click menu, in the log table and in the Log Workshop.
+- Log Fixer: export the QSOs on screen, or only the selected rows, to ADIF.
+- Cabrillo export: you can now save it as a .txt file.
+
+Fixed
+- Contest Mode now follows the log you open; a normal log no longer opens in contest mode.
+- Cabrillo export: wrong dates and frequency units, and columns that did not line up.
+- QRZ photo: a picture from the biography was sometimes shown instead of the station photo.
+
+== 8.9.9 ==
 
 New
 - Try Again: right-click the frequency box to keep a station you cannot name yet.
