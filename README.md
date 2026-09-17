@@ -59,7 +59,7 @@ Double-Click *HolyLogger_x86.msi* and the wizard will guide you through the inst
 
 <h2>My Holyland Square</h2>
 Q: How do I figure out what is my holyland square?<br>
-A: Try this <a href="https://www.iarc.org/holysquare/" target="_blank">online tool</a> or download the .APK file (for Android users) from the <a href="https://4z1kd.github.io/HolySquare/" target="_blank">app website</a>.
+A: Try this <a href="https://tools.iarc.org/holysquare/" target="_blank">online tool</a> or download the .APK file (for Android users) from the <a href="https://4z1kd.github.io/HolySquare/" target="_blank">app website</a>.
 
 <h2>Authors</h2>
 Design and Code: <a href="https://www.qrz.com/db/4z5sl" target="_blank">Dan, 4Z5SL</a>, <a href="https://www.qrz.com/db/4z1kd" target="_blank">Gil, 4Z1KD</a><br>
