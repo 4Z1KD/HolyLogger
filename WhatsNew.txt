@@ -1,3 +1,14 @@
+== 8.9.12 ==
+
+New
+- Spectrum width manager: choose the scope width for each radio and mode.
+- HolyLogger sets that width when it changes the radio's mode.
+- Radio Control Panel settings: a changed frequency is shown in light red.
+- CW on Icom: a warning when BK-IN is off, so CW would not go on the air.
+
+Fixed
+- Radio Control Panel: the band button no longer goes dark and the mode buttons work again.
+
 == 8.9.11 ==
 
 New
