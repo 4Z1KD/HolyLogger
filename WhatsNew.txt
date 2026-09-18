@@ -1,3 +1,27 @@
+== 8.9.13 ==
+
+New
+- Satellite mode: a dish beside the UTC clock shows when it is on.
+- Radio Control Panel: 2m, 70cm and the microwave bands (23cm to 3cm).
+- Radio Control Panel: in satellite mode only the satellite bands are shown.
+- Radio Control Panel: 30m always asks for CW; SSB, AM and FM are off there.
+- Options > Personal Info: your own callsign, locator and Holyland square, kept apart from the main window.
+- They fill a main-window box only when it is empty.
+- "Personal Info" is marked red in Options while your name or e-mail is missing.
+
+Fixed
+- Send Log: the operator callsign is yours, not someone who once used this PC.
+- Loading a club log no longer changes your personal details.
+- Band box: a frequency on no ham band is always marked, with a tooltip that says what to do.
+- Band box: microwave frequencies show the right band.
+- Radio Control Panel: some band frequencies corrected (40m, 6m, 23cm).
+- CW keyer: a long pasted text stays in sight as it goes out, and slides smoothly.
+- CW keyer: Esc stops sending from anywhere in the window.
+- Import Complete: the OK button stays on screen.
+- Support mail: the window can be made shorter.
+- Options: Test Connection and Browse show their whole text.
+- Personal Info: Country and Club are no longer cut off.
+
 == 8.9.12 ==
 
 New
