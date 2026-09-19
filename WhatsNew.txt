@@ -1,3 +1,25 @@
+== 8.9.14 ==
+
+New
+- The map has its own window: pin it onto the main window, or let it float.
+- The pin is in the map's top right corner.
+- View > Map opens and closes the map.
+- Options > User Interface: "Show the map window".
+- Sukkot Contest: pick one of the 17 FM channels and the radio is tuned to it.
+- Sukkot Contest: a radio that cannot be tuned by CAT switches to Manual.
+- Import: when the log already has a contact with a different comment, you choose which comment to keep.
+- Undo import also puts the old comments back.
+- Remove Duplicates: a "Merge all" button.
+- A repeated contact from UDP or a watched ADIF file adds its comment to the stored one.
+
+Fixed
+- Flat map: the scale stays right when the map changes size.
+- Radio Control Panel is greyed out in Manual.
+- Status bar: the Time toggle reads Auto | Manual, like Freq & Mode.
+
+Faster
+- Flat map: the day/night shading draws much faster.
+
 == 8.9.13 ==
 
 New
