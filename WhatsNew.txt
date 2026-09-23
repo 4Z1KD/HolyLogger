@@ -1,3 +1,11 @@
+== 8.9.16 ==
+
+Fixed
+- HolyLogger would not start at all if the Sign Board, the Matrix or the Timer was open when it was
+  last closed. It could not be cured by installing again; this version can simply be installed over it.
+- Cluster: the spotter's callsign behaves like the rest of the row - the wheel tunes from it, and a
+  click still opens its QRZ page.
+
 == 8.9.15 ==
 
 New
