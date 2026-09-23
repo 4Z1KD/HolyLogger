@@ -1,3 +1,27 @@
+== 8.9.15 ==
+
+New
+- Contest Radio Setup: the radio is set for a simplex FM contest by itself when the contest log opens.
+- Ready commands for the ID-5100, IC-7100, IC-910, FT-991, FT-897 and FT-857.
+- "Send now" tries the commands on the radio.
+- Always on top, one tick each: main window, Cluster, Control Panel, My Favorite Channels, CW keyer, QRZ photo.
+- The QRZ photo opens in its own window while the map is pinned.
+- Contest Information: Sukkot gets the band category 2M & 70CM.
+- Power now says what it means: HIGH (More than 100W), LOW (Not more than 100W), QRP (Not more than 5W PEP).
+- Support mail: write in any language, add a picture, and a subject alone is enough.
+
+Fixed
+- Send Log to IARC follows the open log instead of the log sent last.
+- The Channel box shows a channel only within 100 Hz, not 500 Hz.
+- QRZ logs in again when its session ends; lookups no longer stay dead until a restart.
+- A map left maximized opens again instead of failing.
+- Station callsign and operator survive a Windows shutdown.
+- 2m gets its cluster colour in the Radio Control Panel, and a 2m spot is no longer dropped.
+- Changing a band colour now repaints the Radio Control Panel.
+- Flat map: the radius stops at 15000 km, and the red circle is hidden past a pole.
+- An OmniRig start-up failure is written once and names the cause.
+- FT-857: the simplex command was wrong.
+
 == 8.9.14 ==
 
 New
