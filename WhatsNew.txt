@@ -1,3 +1,17 @@
+== 8.9.17 ==
+
+New
+- CW via (Options > General): HolyLogger can key the radio itself through a COM port.
+- The COM port list follows your USB plugs; a port just plugged in turns green and is chosen.
+- A contact already in the log (same station, band and mode, within 10 minutes) asks before it is saved again.
+- Contest Radio Setup: commands for the TS-2000, IC-9700, IC-7000 and IC-705.
+- Contest Radio Setup opens on the radio you looked at last.
+- Options > General is laid out in two columns.
+
+Fixed
+- Tools > Options brings an Options window that is already open to the front.
+- Log Fixer: listener calls like UA3-15132 are no longer reported as bad.
+
 == 8.9.16 ==
 
 Fixed
