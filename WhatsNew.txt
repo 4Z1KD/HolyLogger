@@ -1,3 +1,28 @@
+== 8.9.18 ==
+
+New
+- Sukkot: a Holyland Square box; the square is added to the Comment.
+- Sukkot channels: new channel table, VHF rows blue, UHF rows red.
+- A Sukkot log opens the 4X map by itself.
+- New 4X map of Israel, with grid squares and city names.
+- The map's corner button switches Flat, Polar and 4X.
+- A grid typed in the DX Locator box moves the map.
+- WWFF activation: choose WWFF in the Activity list.
+- My Fauna: the box for your own park, saved with every contact.
+- During a WWFF activation the Radio Control Panel's band buttons go to the WWFF frequencies.
+- Park suggestions from the official WWFF list while you type a park.
+- A park that is not on the WWFF list turns the box orange.
+- Help > About shows how many parks the list holds and when it was updated.
+- Contest Radio Setup: commands for the IC-820, IC-821, IC-706, IC-706MKII, IC-706MKIIG, IC-9100, FT-817, FT-847 and FT-100D.
+- Activity list: the top line now says Regular, in green.
+
+Fixed
+- Sukkot: an empty received Grid Locator is refused.
+- The Cluster window can be minimized, and has its own taskbar button.
+- The Activity list opens at its top line, so Regular is always in sight.
+- Contest Radio Setup lists only radios with commands from their maker.
+- Polar Auto Zoom shows the whole world until the first spots arrive.
+
 == 8.9.17 ==
 
 New
