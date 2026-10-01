@@ -1,3 +1,20 @@
+== 8.9.19 ==
+
+New
+- Contest Info: edit a contest log's information any time, from the Log Manager.
+- The Contest Information window is in two columns and fits the screen.
+- Choosing WWFF moves the radio to the WWFF frequency of its band.
+- Leaving WWFF returns the radio to the band's regular frequency.
+- Sukkot: a link to IARC's page of uploaded logs, after upload and in the Links menu.
+- Send Log asks which log to send, and fills its boxes from that log only.
+
+Fixed
+- In a contest the sent Grid Locator is your My Locator; Add refuses an empty or wrong one.
+- A contest that is not CW closes the CW Keyer.
+- A contest log ends a WWFF activation.
+- WWFF could not be chosen again after a contest.
+- Updates download from the version's GitHub release, with the old place as a backup.
+
 == 8.9.18 ==
 
 New
