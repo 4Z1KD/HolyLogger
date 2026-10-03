@@ -1,3 +1,26 @@
+== 8.9.20 ==
+
+New
+- CW Decoder: reads the station you are listening to, from the radio's sound.
+- CW Decoder: opens with the CW Keyer; choose the sound device in Options > General.
+- CW Decoder: a waterfall shows the signal, with each letter under its dits and dahs.
+- CW Decoder: double-click a callsign to put it in the DX box.
+- Every QSO keeps the distance in km between the two stations (ADIF DISTANCE).
+- A Km column at the far right of the log.
+- Sukkot: the score frame shows the total km.
+- The frequency display reads MHz.kHz.Hz (145.275.000), in bigger digits.
+- Edit QSO draws the QSO's line on the map.
+- The Radio Control Panel and the Cluster remember being minimized.
+- Contest Radio Setup opens on the radio that is on CAT.
+
+Fixed
+- IC-910: FM mode is set correctly.
+- Icom commands sent one after another no longer get lost.
+- Cluster Live Scale no longer makes the screen slow.
+- Sukkot: the DX grid and km come only from the received Grid Locator.
+- Edit QSO: the Holyland Square box no longer stays yellow.
+- The frequency display's tooltip no longer hides the frequency.
+
 == 8.9.19 ==
 
 New
