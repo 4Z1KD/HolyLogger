@@ -1,3 +1,12 @@
+== 8.9.21 ==
+
+New
+- COTA (Castles on the Air): choose it in Activity and the Radio Control Panel goes to the COTA frequencies.
+- Options > Radio Control Panel has a COTA folder, with its own frequencies and Select per band.
+- WWFF and COTA start with only the bands their official pages name selected.
+- My Castle: your own castle number, kept like My Fauna, and Add asks if it is empty.
+- Castle numbers are suggested as you type, from the World Castles Award list of 71,380 castles.
+
 == 8.9.20 ==
 
 New
