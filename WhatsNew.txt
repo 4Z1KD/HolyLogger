@@ -1,3 +1,25 @@
+== 8.9.22 ==
+
+New
+- CW Decoder: Hybrid shows Plain at once, then each letter the network confirms turns bold.
+- CW Decoder: the network corrects Plain's letters, and doubtful ones turn grey.
+- CW Decoder: on a crowded band it reads only the station you are listening to.
+- CW Decoder: choose Plain or Hybrid on its bar.
+- CW Decoder: Tune moves the radio so the station is heard at your pitch.
+- CW Decoder: each transmission starts on a new line, in striped rows.
+- CW Decoder: a callsign sent twice with no gap is still found.
+- CW Decoder: a gear opens its settings.
+- Options > General > CW Decoder: set your CW pitch; it is marked on the waterfall.
+- Options > General > CW Decoder: hide the letters the network did not confirm.
+- A gear at the right end of the top bar opens Options.
+- RTTY in the Mode box.
+- Signboard: shows My Locator, and remembers its size, place and if it was open.
+
+Fixed
+- Cluster: tuning away from a cluster station no longer sends the CW keyer's F9 message.
+- CW Keyer key editor: the General button ID is saved.
+- 64-bit install: the castle list is found.
+
 == 8.9.21 ==
 
 New
