@@ -1,3 +1,9 @@
+== 8.9.23 ==
+
+New
+- CW Decoder: Hybrid hides the letters the network did not confirm, from the start.
+- To see them grey, untick it in Options > General > CW Decoder.
+
 == 8.9.22 ==
 
 New
