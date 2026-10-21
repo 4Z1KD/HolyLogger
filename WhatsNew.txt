@@ -1,3 +1,23 @@
+== 8.9.24 ==
+
+New
+- CW Decoder: always Hybrid; the reader choice on its bar is gone.
+- CW Decoder: every letter appears in the text the moment it is heard.
+- CW Decoder: letters the network does not confirm then disappear (the default).
+- CW Decoder: to keep them, grey, untick it in Options > General > CW Decoder.
+- CW Decoder: while you transmit, the waterfall shows your sending as clean cyan marks.
+- CW Decoder: your own sending is no longer decoded as letters.
+- CW Decoder: smoother waterfall.
+- CW Decoder: 5NN, 599, TNX, Q-codes and CQ DE stand as words of their own.
+- CW Decoder: new text always comes into view, even after scrolling up.
+- CW Decoder: opens and closes on its own, not with the CW Keyer.
+- CW Decoder: comes back at start if it was open.
+
+Fixed
+- CW sent through a COM port no longer breaks up while the decoder is open.
+- No error message when closing HolyLogger with the CW Decoder open.
+- CW Decoder: the = sign is no longer replaced by <BT>.
+
 == 8.9.23 ==
 
 New
