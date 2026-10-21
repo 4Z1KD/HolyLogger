@@ -1,3 +1,12 @@
+== 8.9.25 ==
+
+New
+- CW Decoder: while you transmit, your own letters show in cyan under your marks.
+
+Fixed
+- CW Keyer: once you close it, it stays closed until you open it again.
+- CW Keyer: shows at start unless you closed it last time.
+
 == 8.9.24 ==
 
 New
