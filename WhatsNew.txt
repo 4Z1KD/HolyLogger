@@ -1,3 +1,24 @@
+== 9.0.0 ==
+
+New
+- RTTY: HolyLogger now receives and sends RTTY.
+- RTTY Decoder: opens from View, from the panel's RTTY button, or when the radio goes to RTTY.
+- RTTY Decoder: click a station on the waterfall, or drag the two lines, to read it.
+- RTTY Decoder: Snap puts the lines on the nearest station; Rev swaps the tones.
+- RTTY Decoder: callsigns are checked on QRZ; double-click one to put it in the DX box.
+- RTTY sending: FSK (the radio makes the tones) or AFSK (the sound card does), in Options > General.
+- RTTY: type in the send line; Enter sends, Esc stops.
+- RTTY: the Msg buttons send RTTY text, in yellow. Right-click to edit.
+- RTTY with FSK: clicking a station moves the radio onto it.
+- RTTY with AFSK: the RTTY button puts the radio on LSB and lights RTTY and SSB together.
+- RTTY: closing the decoder puts the radio back on its mode from before.
+- RTTY: the QSO is logged as RTTY, on the station's frequency.
+- The gear on the CW and RTTY decoders opens Options at their own settings, framed in colour.
+- New installs: RTTY frequencies on 30m, 20m, 17m and 12m are off FT8/FT4.
+
+Fixed
+- CW Decoder and Keyer close when the radio leaves CW for RTTY.
+
 == 8.9.25 ==
 
 New
