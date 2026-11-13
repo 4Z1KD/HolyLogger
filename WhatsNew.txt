@@ -1,3 +1,25 @@
+== 9.1.0 ==
+
+New
+- Google Drive Sync: one log on all your computers.
+- Sign in with Google once on each computer, from File or the Log Manager.
+- Every change goes to your Google Drive and comes in on your other computers.
+- No internet: you log as usual; changes go up when you are back online.
+- A new computer gets your whole log from Google Drive.
+- When a QSO was changed on two computers, the latest change wins.
+- The cloud on the top bar: green = synced, orange = waiting, red = off.
+- Log Manager: a big button shows if the database is synced.
+- Help > User Manual, starting with Google Drive Sync.
+- ADIF import: asks which services to queue the new QSOs for.
+- ADIF export: writes the upload status of LoTW, eQSL, QRZ and Club Log.
+- CW Decoder: reads your own straight-key sending (IC-7610, IC-7300, IC-7300MK2).
+- CW Decoder: turns on the radio's side tone to the PC when it opens.
+- CW Decoder: reads more words correctly.
+- Cluster alerts: tick a mode, and every spot in that mode alerts.
+- Cluster alerts: every alert stays in sight; ones scrolled away are pinned at the top.
+- Cluster: a pinned alert moves into the red frame while the radio is on it.
+- Live Scale: dragging tunes past the ends of the list.
+
 == 9.0.0 ==
 
 New
