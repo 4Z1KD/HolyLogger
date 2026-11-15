@@ -1,3 +1,21 @@
+== 9.1.1 ==
+
+New
+- Options: a live bar shows if the radio's USB sound is strong enough.
+- Options: a button opens the Windows recording level.
+- Options: "Set the radio for CW decoding" sets the radio's USB sound for the PC.
+- It shows what will change, sends only after OK, and checks the radio took it.
+- Works with IC-7610, IC-7300, IC-7300MK2, TS-590S and TS-590SG.
+- User Manual: new subject, CW Decoder, with the USB sound settings for each radio.
+- User Manual: the list shows only subjects; click one to open its parts.
+- User Manual: a Search box.
+
+Fixed
+- Options shows the new radio name at once after a change in OmniRig.
+- Profiles no longer look changed for nothing or bring back old values.
+- RTTY (AFSK): the RTTY button sets the RTTY span; SSB keeps its own.
+- RTTY Decoder: always shows at least three lines of text.
+
 == 9.1.0 ==
 
 New
