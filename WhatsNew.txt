@@ -1,3 +1,13 @@
+== 9.1.2 ==
+
+New
+- Set the radio for CW decoding: IC-705, IC-9700, IC-7760, IC-7100, IC-7410, IC-9100, IC-7600 and TS-890S.
+- User Manual: CW Decoder settings for these radios, and for Elecraft K4 and K3S.
+- Options: the recording level button is green, Set the radio is blue.
+
+Fixed
+- Club Log and eQSL: a queue of QSOs goes up as one file, not one by one.
+
 == 9.1.1 ==
 
 New
