@@ -1,3 +1,20 @@
+== 9.1.3 ==
+
+New
+- Profiles: an exported profile now moves your whole setup to a second computer.
+- It brings the eQSL accounts, Contest Radio Setup, window places, column widths and CW speed.
+- LoTW, QRZ and Club Log logins and the station callsign were already in it.
+- Import a profile and HolyLogger offers to switch to it at once.
+- The file holds your passwords: keep it safe.
+- The LoTW certificate stays in TQSL: move it with TQSL's own backup.
+- Google Drive Sync: the question names the computer the Drive log came from and its QSO count.
+
+Fixed
+- Google Drive Sync: a new computer with an empty log can no longer replace your log.
+- Google Drive Sync: you are warned when the Drive log has fewer QSOs than this computer.
+- QRZ: uploading the queue no longer locks the main window.
+- Upload window: says "Uploading on Exit" only when closing.
+
 == 9.1.2 ==
 
 New
