@@ -1,3 +1,20 @@
+== 9.1.4 ==
+
+New
+- The title bar shows the profile in use, or "----" when none.
+- Profile Manager: a "Stop using current profile" button; your settings stay as they are.
+- User Manual: new subject, Profile.
+- Google Drive Sync: every computer now joins its logs with your other computers'; logs with the same name become one, and a QSO on both is kept once.
+- Google Drive Sync: changes from your other computers arrive within about a minute.
+
+Fixed
+- CW Decoder: a weak station is no longer drawn as your own sending.
+- Profile Manager: the Export button is no longer cut off.
+- Google Drive Sync: QSOs whose log was made before sync are no longer thrown away.
+- Google Drive Sync: deleting a big log no longer makes the sync file huge.
+- Cluster: the window can no longer hide behind the main window.
+- Cluster: it now minimises together with the main window.
+
 == 9.1.3 ==
 
 New
