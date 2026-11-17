@@ -6,6 +6,8 @@ New
 - User Manual: new subject, Profile.
 - Google Drive Sync: every computer now joins its logs with your other computers'; logs with the same name become one, and a QSO on both is kept once.
 - Google Drive Sync: changes from your other computers arrive within about a minute.
+- RST: over-S9 reports, from 59+5 to 59+30.
+- User Manual: Profile says how to set up OmniRig on a second computer.
 
 Fixed
 - CW Decoder: a weak station is no longer drawn as your own sending.
