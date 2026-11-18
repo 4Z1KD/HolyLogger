@@ -1,3 +1,9 @@
+== 9.1.6 ==
+
+Fixed
+- Google Drive Sync: if the HolyLogger Sync folder or its files are deleted, they are sent again.
+- Google Drive Sync: signing out and in again sends all this computer's logs and QSOs again.
+
 == 9.1.5 ==
 
 New
