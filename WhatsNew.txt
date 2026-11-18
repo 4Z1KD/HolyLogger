@@ -1,3 +1,9 @@
+== 9.1.5 ==
+
+New
+- Help > Support: the mail now says which computer sent it, with its clock and language.
+- Help > Support: it also shows how Google Drive Sync stands on that computer.
+
 == 9.1.4 ==
 
 New
