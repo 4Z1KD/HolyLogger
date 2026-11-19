@@ -1,3 +1,19 @@
+== 9.1.7 ==
+
+New
+- CW: the 4 Msg buttons have two sets, CQ and ANS (answering a CQ). The CQ / ANS button on the top bar picks one.
+- CW Macros window: both sets side by side.
+- Right-click a Msg button: a Macros Editor button opens the CW Macros window.
+- CW Macros: an Ask tick box turns the QRL? question on or off.
+- New installs come with a CQ set: CQ, RST, TU, AGN.
+- The top bar: the menu takes less room, and the lock sits next to Help.
+
+Fixed
+- Msg buttons: pressing again right after a message ends sends it again (it used to wait up to 5 seconds), in CW and SSB.
+- "My call" now fits on a Msg button.
+- CW Macros: long macros are no longer cut off.
+- CW Keyer Settings: the seconds box is no longer too tall.
+
 == 9.1.6 ==
 
 Fixed
