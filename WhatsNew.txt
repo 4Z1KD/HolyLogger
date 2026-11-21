@@ -1,3 +1,17 @@
+== 9.1.8 ==
+
+New
+- Radio Control Panel: a SPLIT button and a kHz/UP box.
+- Radio Control Panel: the split range and the mouse wheel step (0.1 / 0.5 / 1 kHz) are set in Options.
+- Statistics: a "Get All ARRL Granted DXCC" button on the ARRL folder.
+- Statistics: the ARRL folder counts only DXCC credits granted by ARRL.
+- Alerts: each callsign in the watch list has an Any Mode box.
+
+Fixed
+- Alerts: the mode boxes now say what they do: alert on every spot in these modes.
+- Statistics: a narrower window, with no blank strip on the right.
+- Statistics: the table headers say "QSOs" and "Confirmed" ("Granted" on the ARRL folder), and country names fit.
+
 == 9.1.7 ==
 
 New
