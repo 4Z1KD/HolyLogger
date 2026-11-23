@@ -1,3 +1,25 @@
+== 9.1.9 ==
+
+New
+- Alerts: each watched callsign has a Mode box (Any, or one mode).
+- Radio Control Panel: a second row shows the TX frequency while split is on, blinking while transmitting.
+- Radio Control Panel: split turns off when the main frequency moves away (5 kHz by default).
+- Radio Control Panel: CW has its own split range and wheel step.
+- Options: the split settings are in one table.
+- CW decoder: a filter waterfall on the right side of the window.
+- CW decoder: click a station on the waterfall to tune it onto the pitch.
+- CW decoder: an Auto tune switch keeps a steady station on the pitch.
+- CW decoder: a better trained network for weak signals and uneven sending.
+
+Fixed
+- Radio Control Panel: a band or mode button turns split off first.
+- Radio Control Panel: turning split on copies A to B first, so both use the same mode.
+- CW decoder: the IC-7610 is set to the pitch in Options, so its filter sits on the red line.
+- CW decoder: the Tune button is gone (click the waterfall or use Auto tune).
+
+Faster
+- Cluster: new spots no longer redraw the whole table.
+
 == 9.1.8 ==
 
 New
