@@ -1,3 +1,15 @@
+== 9.1.10 ==
+
+New
+- CW decoder: your own sending shows in the text rows, in bold purple.
+- CW decoder: the radio's filter width and pitch are read from more radios: IC-7300, IC-9700, Kenwood TS-590/890/990, Yaesu FTDX10/FTDX101/FT-991A/FT-891.
+
+Fixed
+- CW decoder: no more random letters on an empty band.
+- CW decoder: no stray E or T after a station stops.
+- CW decoder: no speed shown for noise.
+- LoTW: big logs no longer stop with "no changes were made"; only 5 minutes of silence from LoTW stops a download.
+
 == 9.1.9 ==
 
 New
