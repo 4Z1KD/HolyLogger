@@ -1,3 +1,20 @@
+== 9.1.11 ==
+
+New
+- CW: a long Msg text is sent in pieces, so the radio keys all of it.
+- CW: new macro {SENTRSTCUT} sends 599 as 5NN.
+- CW: click a macro in the list to put it in the box.
+- CW decoder: the pitch from Options is shown on the bar.
+- CW decoder: each message you send starts a new line.
+- ARRL Granted folder: click a number to see the ARRL's list beside your log.
+- Split: right-click SPLIT to open its settings.
+- The log now writes down every freeze, to find the cause.
+
+Fixed
+- CW: sending no longer stops after the first 5NN.
+- Split no longer ends when you switch or tune the other VFO.
+- Cluster: column widths you drag are kept.
+
 == 9.1.10 ==
 
 New
