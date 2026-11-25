@@ -1,3 +1,20 @@
+== 9.1.12 ==
+
+New
+- SSB: the Msg buttons can play your own recordings from this PC (Tools > Audio Messages).
+- Audio Messages: record, play, rename and delete each message.
+- Audio Messages: transmit by CAT, a COM port line, or VOX.
+- The log now writes how long each QSO save takes.
+
+Fixed
+- Google Drive Sync: a very large diary no longer fails with "out of memory".
+- ARRL Granted list: a QSO with the exact callsign is no longer shown as not granted.
+- Statistics: Sint Maarten now shows its flag.
+- HolyLogger's own log file is no longer deleted when it grows big.
+
+Faster
+- HolyLogger opens its database faster at start.
+
 == 9.1.11 ==
 
 New
