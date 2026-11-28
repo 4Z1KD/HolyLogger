@@ -1,3 +1,27 @@
+== 10.0.0 ==
+
+New
+- HolyLogger is now a 64-bit program. It replaces the old one in one click.
+- SSB: REC QSO records the radio's sound; PLAY plays a recording or transmits it.
+- Audio Messages: choose any sound file for each Msg key.
+- SSB Msg: HolyLogger checks the radio is set to transmit the PC's sound, and tells you what to set.
+- CW: a BK-IN button beside the WPM in both keyers.
+- CW via COM port: a Test button, and keying at the radio's own speed.
+- CW Macros: a shortcuts list; click one to put it in the box.
+- CW Macros: the green button shows the standard texts for F1 to F12.
+- UTC clock in the title bar.
+
+Fixed
+- Long freezes on PCs that run screen-reading or automation programs.
+- Manual mode: the mouse wheel on the frequency box no longer tunes the radio.
+- Frequency display: a click no longer opens an edit box when CAT is on.
+- CW: no more BK-IN message box.
+- Sound cards: the same card is still found when Windows renames it.
+- Audio Messages: the window closes when the radio leaves SSB.
+
+Faster
+- CW decoder: the network reads almost 3 times faster.
+
 == 9.1.12 ==
 
 New
